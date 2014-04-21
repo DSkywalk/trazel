@@ -55,4 +55,4 @@ docs/_build/
 # rom
 *.smc
 *.sfc
-*.here
+*.my
