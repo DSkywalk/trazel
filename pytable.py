@@ -22,7 +22,7 @@
 import sys, os
 import re
 from binascii import hexlify, unhexlify
-from table import TABLE, SAFE, ENDVAL
+from table_new import TABLE, SAFE, ENDVAL
 
 
 """
@@ -112,7 +112,6 @@ def replaceText(sRomFile, sUserFile, iStart, iLength, iBufsize=1024):
             key = chr(i)
             #print "subs: %s to %s" % (value, i)
             content = content.replace(value, key)
-
         iLeft = (iLength - len(content))
         print "Bytes left: %i (Filled with 0x%s)" % (iLeft, ENDVAL)
         while iLeft:
