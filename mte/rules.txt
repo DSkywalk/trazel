@@ -1,0 +1,13 @@
+; rules example
+
+; exclude numbers
+.0123456789#|>
+
+0D ; exclude CR and LF
+0A
+
+-[] ; exclude text between square brackets
+-{} ; exclude text between curly brackets
+
+; end of rules example
+
