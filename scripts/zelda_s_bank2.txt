@@ -1,0 +1,1078 @@
+[END]
+
+
+{7A}A[3]{88}[Espacio 2][2]{88}|>[Choose][END]
+
+
+{7A}A[2]{88}[Espacio 2][3]{88}|>[Choose][END]
+
+
+{7A}ASalvar y continuar[2]Salvar y quitar[3]Continuar sin salvar[END]
+
+
+{7A}A0  {6C}A. 1  {6C}B[2]2  {6C}C. 3  {6C}D[END]
+
+
+No puedes entrar si están[2]siguiéndote.[END]
+
+
+{7A}A[1]|>[2][Espacio 2][3][Espacio 2][Choose2][END]
+
+
+{7A}A[1][Espacio 2][2]|>[3][Espacio 2][Choose2][END]
+
+
+{7A}A[1][Espacio 2][2][Espacio 2][3]|>[Choose2][END]
+
+
+{7A}A[1]|>[2][Espacio 2]{72}[END]
+
+
+{7A}A[1][Espacio 2][2]|>{72}[END]
+
+
+{7A}A[3]{88}[2][Espacio 2]|>{6F}[END]
+
+
+{7A}A[2]{88}[3][Espacio 2]|>{6F}[END]
+
+
+[Name], voy a salir un rato.[2]Volveré por la mañana, no te[3]preocupes, quédate en casa.[END]
+
+
+Oh[43] [61]eres tú, [Name]?[2][61]No te dije que esperaras[3]en casa?[43][Waitkey][Scroll]Supongo que no puedes huir[Scroll]de tu destino[43][Waitkey]Toma, coge[Scroll]mi espada y mi escudo.[Waitkey][Scroll]Te enseñaré la técnica secreta[Scroll]que sólo los Caballeros de[Scroll]Hyrule conocen[43][Waitkey][Scroll]Puedes concentrar poder en la[Scroll]hoja (Manteniendo [B]), y luego[Scroll]soltarlo para descargarlo.[Waitkey][Scroll][Name][43], debes rescatar a la[Scroll]princesa Zelda y cumplir el[Scroll]destino de nuestro linaje.[Waitkey][Scroll]Pero procura no caer víctima[43][Scroll]del destino[43] [Name][43][Waitkey][Scroll]Siempre recordaré[43][Waitkey][Scroll]el tiempo[43] juntos[43][END]
+
+
+[61]Qué haces levantado una[2]noche como esta, chiquillo?[3][60]Vuélvete a tu casa ya![Waitkey][Scroll]Pero si pretendes estar por[Scroll]aquí, habla con los soldados[43][Scroll]Te contarán un par de cosas.[END]
+
+
+Veo que tienes un mapa para[2]no perderte.[3](Pulsa el botón [X] para verlo).[END]
+
+
+Pareces fuerte para ser un[2]niño.[Espacio 2][61]Cuánto peso levantas?[3](Pulsa [A] cerca de algo para[Waitkey][Scroll]levantarlo).[END]
+
+
+[60]Apuesto a que no esperas a[2]crecer para usar una espada![3](Pulsa el botón [B] para usar[Waitkey][Scroll]la espada cuando la tengas).[END]
+
+
+[60]Eh! Seguro que esa marca que[2]hay en tu mapa será tu próximo[3]destino. [61]Verdad, chaval?[END]
+
+
+Puedes hallar cosas de valor en[2]los cofres.[Espacio 2](Pulsa el botón [A][3]enfrente de uno para abrirlo).[END]
+
+
+Modestia aparte [61]no te parece[2]que los soldados somos gente[3]gente realmente lista?[Waitkey][Scroll]No lo digo por que tú hayas[Scroll]salido en una noche así solo[Scroll]para hablar con nosotros[43][END]
+
+
+Habla con el anciano del pueblo[2]para conseguir la[3]Espada Maestra.[END]
+
+
+Princesa Zelda,[60]estáis a salvo![2][61]La has rescatado tú, [Name]?[END]
+
+
+Siento que una malvada fuerza[2]guía los actos del Brujo y[3]aumenta sus poderes mágicos.[Waitkey][Scroll]La única arma capaz de[Scroll]derrotarle es la legendaria[Scroll]Espada Maestra.[Waitkey][Scroll]Se dice que el anciano del[Scroll]pueblo es un descendiente de[Scroll]los Siete Sabios.[Waitkey][Scroll]Puede que él te diga algo más[43][Waitkey][Scroll]Te voy a señalar su casa en[Scroll]tu mapa.[Scroll][60]Pero ten mucho cuidado![Waitkey][Scroll][60]Ahora todos los soldados del[Scroll]castillo estarán buscándoos[Scroll]a la Princesa y a ti![Waitkey][Scroll]Yo ocultaré a la princesa[Scroll]Zelda. [60]No te preocupes![Scroll][60]Ve y encuentra al anciano![Waitkey][Scroll]{88}[43][Scroll][61]Lo entiendes?[Scroll]{88}|> Sí[Scroll]{88}{89}No del todo[Choose][END]
+
+
+Si derrotas al Brujo, puede[2]que los soldados recuperen[3]la razón.[Waitkey][Scroll][60]Encuentra los Colgantes![END]
+
+
+Lleva los tres Colgantes al[2]Bosque Perdido.[Espacio 2]La Espada[3]Maestra te espera allí.[END]
+
+
+[60]Oh, [Name]![43] Si hubieses llegado[2]un poco antes[43][Espacio 2]Zelda[43][3]Vinieron los soldados y[43][Waitkey][Scroll]se llevaron a la Princesa.[Scroll]Temo que ahora esté encerrada[Scroll]en lo más alto de la torre.[Waitkey][Scroll][60]Van a sacrificarla![Scroll]Debes encontrarla antes de[Scroll]que el Brujo use sus poderes.[Waitkey][Scroll]Eres nuestra última esperanza[43][END]
+
+
+Gracias, [Name].[2]Tenía la sensación de que[3]te estabas acercando[43][END]
+
+
+[60]Sí, ha sido [Name] quien me[2]ha ayudado a escapar de la[3]mazmorra![Waitkey][Scroll]Cuando estaba prisionera el[Scroll]Brujo dijo, "Debo acabar[Scroll]contigo para abrir el sello".[Waitkey][Scroll][43]{88}[43]{88}[43][Scroll][Name], debes impedir que la[Scroll]tierra de Hyrule caiga en las[Waitkey][Scroll]garras del Brujo.[Waitkey][Scroll]Si rompe el sello de los Siete[Scroll]Sabios, el Mal se adueñará de[Scroll]nuestra tierra.[Waitkey][Scroll]Antes de que ocurra[43][Scroll]Antes de que sea tarde[43][Waitkey][Scroll][60]Acaba con el Brujo antes de[Scroll]que destruya todo Hyrule![Scroll][60]Puedes hacerlo, [Name]![END]
+
+
+[60][Name], ten mucho cuidado![2][60]Sé que puedes salvar Hyrule![END]
+
+
+{6B}C{7A}DAyúdame[43]{78}B[3]Ayúdame, te lo suplico[43][Waitkey][Scroll]Estoy prisionera en las[Scroll]mazmorras del castillo.[Scroll]Mi nombre es Zelda.[Waitkey][Scroll]El Brujo, Agahnim, ha hecho algo[Scroll]terrible a las otras doncellas[Scroll]despararecidas. Sólo quedo yo[43][Waitkey][Scroll]Agahnim tomó el control del[Scroll]castillo y quiere romper el sello[Scroll]mágico con nuestros poderes.[Waitkey][Scroll][43]{89}[43][Scroll]Estoy en las mazmorras del[Scroll]castillo.[Waitkey][Scroll]Ayúdanos, te lo ruego[43][END]
+
+
+{6B}C{7A}DAyúdame[43][2]Estoy en las mazmorras del[3]castillo.[Waitkey][Scroll]Se que hay una entrada oculta[Scroll]desde la muralla exterior, al[Scroll]jardín del interior del palacio.[END]
+
+
+Hay un pasadizo secreto en[2]la sala del trono que lleva al[3]Santuario.[Espacio 2]Allí vive un[Waitkey][Scroll]sacerdote que nos ayudará.[END]
+
+
+Ese escudo de armas se puede[2]mover. [61]Tienes algo de luz?[3]Allí dentro está muy oscuro y[Waitkey][Scroll]no se ve nada. [61]Estás listo?[Scroll][60]Ayúdame a empujarlo por la[Scroll]izquierda![END]
+
+
+Debes tirar de la palanca para[2]abrir la puerta.[Espacio 2](Presiona [A][3]mientras pulsas {4E} en el pad).[END]
+
+
+Bien, salgamos antes de que se[2]entere el Brujo.[Espacio 2]Conozco un[3]pasadizo secreto, pero primero[Waitkey][Scroll]tenemos que ir a la primera[Scroll]planta. [60]Vamos![END]
+
+
+[Name], presta atención.[Espacio 2]El[2]Brujo controla con su magia[3]a los soldados del castillo.[Waitkey][Scroll]Temo lo peor por[Scroll]mi padre[43][Scroll][60]El Brujo es un ser demoníaco[Waitkey][Scroll]con grandes poderes mágicos![Scroll][43]{89}[43]{89}[43][Waitkey][Scroll][61]Lo entiendes?[Scroll]{88}|> Sí[Scroll]{88}{89}No del todo[Choose][END]
+
+
+Sigue las marcas que el anciano[2]hace en tu mapa.[Espacio 2]Si no sabes[3]qué hacer,[Espacio 2]visita al adivino,[Waitkey][Scroll]quizás pueda ayudarte[43][END]
+
+
+[Name], eres genial![2][60]Como pensaba, tienes el poder[3]del Héroe en ti![Waitkey][Scroll]Ahora,[Espacio 2]ve a por la Espada[Scroll]Maestra.[Espacio 2]Estoy segura de que[Scroll]vencerás al malvado Brujo![END]
+
+
+{6B}C{7A}D[60][Name]![60]Ayuda![2][60]Los soldados están entrando[3]en el Santuario![43][60]AAAAAAAH![Waitkey][Scroll][43] [43] [43][END]
+
+
+Después de atravesar las[2]alcantarillas, estaremos muy[3]cerca del Santuario.[Waitkey][Scroll][60]Vayamos con cuidado![END]
+
+
+El Santuario está tras[2]esa puerta.[3]Usa las palancas.[END]
+
+
+[61]Sí? [60]Ah, eres tú, [Name]![2][61]Qué puedo hacer por ti[3]jovencito?[Espacio 2][61]El anciano?[Espacio 2]Nadie[Waitkey][Scroll]le ha visto desde que el Brujo[Scroll]comenzó a hacer de las suyas[43][Scroll][43]{89}[43]{89}[43][Waitkey][Scroll][61]La Espada Maestra?[Espacio 2]Pues no[Scroll]recuerdo todos los detalles[Scroll]exactos, pero[43][END]
+
+
+Ya hace mucho, un próspero[2]pueblo conocido como los[3]hylianos habitaban este lugar[43][Waitkey][Scroll]Las leyendas hablan de tesoros[Scroll]con poderes mágicos de aquella[Scroll]época que aún se conservan[43][Waitkey][Scroll]La Espada Maestra, una mítica[Scroll]espada forjada para luchar[Scroll]contra el Mal es uno de ellos[43][Waitkey][Scroll]Dicen que ahora descansa[Scroll]en el bosque[43][Scroll][43] [43] [43][Waitkey][Scroll][61]Entiendes la leyenda?[Scroll]{88}|> Si[Scroll]{88}{89}No del todo[Choose][END]
+
+
+Busca al anciano. Alguien del[2]pueblo debe saber dónde está.[3][Name], se prudente, os buscan[43][END]
+
+
+Ohhh, [Name]. [60]Has cambiado![2]Estas increíble[43][Espacio 2]Te lo ruego,[3][60]sálvanos de Agahnim el brujo![END]
+
+
+[61]Eh?[60]Aquí está [Name],[2]el forajido que buscan![3][60]Soldados a prisa![END]
+
+
+[60][Name], eres increíble![2][60]Sabía que tenías madera de[3]héroe![Waitkey][Scroll]Ahora, debes ir a por la Espada[Scroll]Maestra. [60]Estoy segura que[Scroll]acabarás con Agahnim el brujo![END]
+
+
+Soy muy viejo para luchar.[2]Sólo puedo confiar en ti[43][END]
+
+
+Yo soy Sahasrahla, anciano del[2]pueblo y descendiente de los[3]Siete Sabios[43][Waitkey][Scroll][43]{89}[43]{88} [61]De verdad?[Waitkey][Scroll][Name], me asombra que un[Scroll]joven como tú busque esa[Scroll]espada que combate el Mal.[Waitkey][Scroll]Cualquiera no puede empuñarla.[Waitkey][Scroll]Las leyendas dicen que sólo[Scroll]será del Héroe que consiga los[Scroll]tres colgantes[43][Waitkey][Scroll][43]{89}[43]{89}[43][Waitkey][Scroll][61]Todavía quieres buscarla?[Scroll]{88}|> [60]Si![Scroll]{88}{89}[60]Por supuesto![Choose][END]
+
+
+Siendo así, como prueba de tu[2]arrojo, deberás obtener el[3]Colgante del Valor.[Waitkey][Scroll]Si me lo traes, demostrarás[Scroll]tu valía y podré confiarte[Scroll]más secretos.{79}t[Waitkey][Scroll]Ahora, ve al Palacio del Este[Scroll]y tráeme el colgante.[END]
+
+
+Otros parientes de los Sabios[2]se esconden de los seguidores[3]del malvado Brujo.[Waitkey][Scroll]Deberías intentar buscarlos.[END]
+
+
+{6B}C{7A}D[Name], soy yo, Sahasrahla,[2]y hablo contigo gracias a mis[3]poderes telepáticos[43][Waitkey][Scroll]El lugar en el que estás ahora,[Scroll]era antes una tierra hermosa[Scroll]que llamaban la Tierra Dorada.[Waitkey][Scroll]Pero el Mal la transformó, y[Scroll]ahora es un lugar oscuro al que[Scroll]llaman, Mundo de las Tinieblas.[Waitkey][Scroll]El Brujo ha roto el sello y ha[Scroll]abierto el portal que une ambos[Scroll]mundos en el Castillo de Hyrule.[Waitkey][Scroll]Ahora, para salvar a nuestro[Scroll]Mundo de la Luz, tienes que[Scroll]recuperar el Poder Dorado y[Waitkey][Scroll]rescatar a las Siete Doncellas[Scroll]que Agahnim envió también al[Scroll]Mundo de las Tinieblas.[Waitkey][Scroll]Ellas pertenecen al linaje de[Scroll]los Siete Sabios y sus[Scroll]poderes te ayudarán.[Waitkey][Scroll]Las doncellas están encerradas[Scroll]en mazmorras ocultas, plagadas[Scroll]de monstruos y trampas.[Waitkey][Scroll][60]El Palacio Oscuro es tu{79}t[Scroll]primer destino, [Name]![Scroll]Sé que puedo confiar en ti.[Waitkey][Scroll]Haz que los deseos de este[Scroll]anciano se hagan realidad,[Scroll][60]Te lo suplico![END]
+
+
+{6B}C{7A}DSiento tu impotencia[43][2]Antes de ir a ningún sitio,[3]busca la Perla Lunar en la[Waitkey][Scroll]Montaña de la Muerte.[Waitkey][Scroll]Te protegerá de la magia del[Scroll]Mundo de las Tieblas pudiendo [Scroll]mantener tu forma heróica.[END]
+
+
+Visita la cueva al este del[2]Lago Hylia. En ella encontrarás[3]cosas fantásticas[43][END]
+
+
+[60]Oh![2][60]Tienes el Colgante del Valor![3]Te contaré algo más sobre él[43][Waitkey][Scroll]Hace 3 ó 4 generaciones, una[Scroll]orden de caballería protegía[Scroll]a la Casa de los Hylia.[Waitkey][Scroll]Eran los Caballeros de Hyrule,[Scroll]guardianes también del[Scroll]Colgante del Valor.[Waitkey][Scroll]Se dijo que de su linaje saldría[Scroll]un héroe que salvaría a la casa[Scroll]real de su exterminio.[Waitkey][Scroll]Desgraciadamente, la mayoría[Scroll]de ellos perecieron en la gran[Scroll]guerra librada contra las[Waitkey][Scroll]fuerzas del Mal mientras los[Scroll]Siete Sabios creaban el sello[Scroll]que les encomendó el Rey[Waitkey][Scroll]y se creyó que ya no nacería[Scroll]el héroe salvador del que[Scroll]hablaba la leyenda[43][Waitkey][Scroll]Ahora veo que ese héroe eres[Scroll]tú, [Name]![Scroll]Consigue los demás colgantes.[Waitkey][Scroll]Toma, lleva esto contigo. Es[Scroll]un tesoro que hemos guardado[Scroll]durante generaciones.[END]
+
+
+[60]Así es, joven! Yo soy[2]Sahasrahla, anciano del pueblo[3]y descendiente de los Siete[Waitkey][Scroll]Sabios[43] [61]Cómo?[43][Scroll][Name], me alegra e inquieta[Scroll]a la vez que busques la espada[Waitkey][Scroll]que combate el Mal.[Waitkey][Scroll]Cualquiera no puede empuñarla.[Waitkey][Scroll]Según cuenta la historia de los[Scroll]hylianos, el Héroe que derrote[Scroll]a los tres demonios y obtenga[Waitkey][Scroll]los tres Colgantes podrá[Scroll]blandir la Espada Maestra[43][Scroll][43] [43] [43][Waitkey][Scroll]Veo que tienes el Colgante[Scroll]del Valor,[Espacio 2]así que te contaré[Scroll]algo más sobre él[43][Waitkey][Scroll]Hace 3 ó 4 generaciones, una[Scroll]orden de caballería protegía[Scroll]a la Casa de los Hylia.[Waitkey][Scroll]Eran los Caballeros de Hyrule,[Scroll]guardianes también del[Scroll]Colgante del Valor.[Waitkey][Scroll]Se dijo que de su linaje saldría[Scroll]un héroe que salvaría a la casa[Scroll]real de su exterminio.[Waitkey][Scroll]Desgraciadamente, la mayoría[Scroll]de ellos perecieron en la gran[Scroll]guerra librada contra las[Waitkey][Scroll]fuerzas del Mal mientras los[Scroll]Siete Sabios creaban el sello[Scroll]que les encomendó el Rey[Waitkey][Scroll]y se creyó que ya no nacería[Scroll]el héroe salvador del que[Scroll]hablaba la leyenda[43][Waitkey][Scroll]Ahora veo que ese héroe eres[Scroll]tú, [Name]![Scroll]Consigue los demás colgantes.[Waitkey][Scroll]Toma, lleva esto contigo. Es[Scroll]un tesoro que hemos guardado[Scroll]durante generaciones.[END]
+
+
+Daré 100 Rupias al que[2]encuentre a los descendientes[3]de los Siete Sabios.{89}EL REY[END]
+
+
+[Espacio 2]{4A}{4B}[Espacio 2][60]SE BUSCA![2]Por el rapto de la Princesa.[3]Si lo ve, avise a los soldados.[END]
+
+
+{88} [60]ATENCION![2]Prohibido entrar en la Montaña[3]de la Muerte.{88}EL REY[END]
+
+
+{88} Camino del[2]{88} Bosque Perdido[END]
+
+
+{88}{88}{89}[60]PELIGRO![2][60]Cuidado con las aguas[3]profundas y con los Zora![END]
+
+
+{88}{88} Tienda de Pociones[2]La Cascada de los Deseos está[3]un poco más adelante.[END]
+
+
+Esta gruta conduce[2]al pueblo Kakariko.[END]
+
+
+[2]{88}{89}{4E} Lago Hylia y Tienda[END]
+
+
+[2]{88}{88}{4F} Pueblo Kakariko[END]
+
+
+[2]{88}{89}{4F} Desierto Misterioso[END]
+
+
+{88}{4D} Tienda de Pociones[3]{88}{4D} {50} Cascada de los Deseos[END]
+
+
+{88}{88}{50} Palacio del Este[3]{88}{88}{4F} Castillo de Hyrule[END]
+
+
+[2]{88}{88}Lago Hylia[END]
+
+
+Soy un tipo de lo más normal.[2]No me moleste.[3]NO QUITE ESTE CARTEL.[END]
+
+
+Cabaña de los Leñadores[2]B. T. y A. Cierta[END]
+
+
+[2]{88}{88}{4E} Pueblo Kakariko[END]
+
+
+Doble faena y doble problema,[2]que el fuego arda y[3]burbujee el caldero,[Waitkey][Scroll]necesita setas este puchero[43][END]
+
+
+Je, je.[Espacio 2]Gracias, joven[43][2]Vuelve más tarde por aquí[3]habrá algo para tí[43][Waitkey][Scroll]Je, je[43][END]
+
+
+Mmmmm[43][Espacio 2][60]Que olorcillo a fruta[2]podrida![43][Espacio 2]Dame esa Seta y[3]podré terminar esta poción[43][Waitkey][Scroll]Je, je, je[43][END]
+
+
+Si quieres comprar una poción,[2]debes traer una botella donde[3]meterla[43] [60]Je, je, je![END]
+
+
+La Poción Roja te dará vida,[2]la Verde te dará magia y la[3]Poción Azul restablece ambas.[Waitkey][Scroll]Toma, saborea una muestra de[Scroll]Poción Roja[43] [60]Je, je![END]
+
+
+Sin una botella mágica no[2]puedes comprar pociones.[3][60]Je, je![END]
+
+
+No,[Espacio 2]no,[Espacio 2]no[43][Espacio 2]No puedo poner[2]nada en una botella llena[43][3][60]Je, je, je![END]
+
+
+[60]Consigues el Candil![2]Prende antorchas y permite[3]ver en la oscuridad.[END]
+
+
+[60]Consigues el Bumerán![2][60]Pruébalo! (Para seleccionar[3]un objeto, pulsa Start)[END]
+
+
+[60]Consigues el Arco![2][60]Ahora puedes lanzar flechas[43][3]hasta que se agoten.[END]
+
+
+[60]Te prestaron una Pala![2][60]No dejes de cavar, [60]nunca se[3]sabe lo que puedes encontrar![END]
+
+
+[60]Es la Capa Mágica![2][60]Mientras la lleves puesta,[3]serás totalmente invisible![Waitkey][Scroll]Pero ojo al Indicador de magia.[END]
+
+
+[60]Son los Polvos Mágicos![2][60]Pruébalos contra enemigos[3]y cosas![60]Te sorprenderán![END]
+
+
+[60]Compras las Aletas de Zora![2][60]Ahora puedes nadar incluso[3]en aguas profundas![END]
+
+
+[60]El Guante de Fuerza![2][60]Ahora podrás levantar y[3]cargar con piedras pesadas![END]
+
+
+[60]El Colgante del Valor![2][60]Llévaselo a Sahasrahla y[3]encuentra los dos que faltan![END]
+
+
+[60]El Colgante de la Fuerza![2]Estás cerca, [60]A por el último![END]
+
+
+[60]El Colgante de la Sabiduría![2][60]Ya tienes los tres Colgantes![3][60]A por la Espada Maestra![END]
+
+
+La Seta que acabas de recoger[2]tiene el dulce olor de la fruta[3]podrida[43][Waitkey][Scroll]Puedes dárselo a quien[Scroll]lo quiera.[Scroll](Selecciónalo y pulsa [Y])[END]
+
+
+[60]Es el Libro de Mudora![2][60]Ahora puedes entender la[3]antigua lengua hyliana![END]
+
+
+[60]La Perla Lunar![2][60]Te protegerá de los efectos[3]cambiantes del Poder Dorado![END]
+
+
+[60]Consigues la Brújula![2][60]Ya puedes localizar la guarida[3]del Mal supremo de la mazmorra![END]
+
+
+[60]Encuentras el Mapa![2][60]Ahora puedes ver tu posición[3]y toda la mazmorra en él![END]
+
+
+[60]Encuentras el Cetro de Hielo![2][60]Congela el aire con su poder![3]Pero ojo al Indicador de magia.[END]
+
+
+[60]Has hallado el Cetro de Fuego![2][60]Despide un fuego abrasador![3]Pero ojo al Indicador de magia.[END]
+
+
+[60]Es el Medallón de la Helada![2]Sus poderes mágicos controlan[3]la atmósfera y el viento polar.[Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
+
+
+[60]El Medallón de la Llamarada![2][60]Su magia envolverá la tierra[3]en un fuego abrasador![Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
+
+
+[60]Es el Medallón del Temblor![2]Su magia hace temblar la tierra[3]como un auténtico terremoto.[Waitkey][Scroll]Pero ojo al Indicador de magia.[END]
+
+
+[60]El Martillo Mágico![2][60]Ahora puedes hundir estacas[3]y otros objetos en el suelo![Waitkey][Scroll][60]También sirve para luchar![END]
+
+
+[60]Oh![60]Es la Ocarina![2][60]Seguro que su música tiene[3]algún poder misterioso[43]![END]
+
+
+[60]La Vara de Somaria es tuya![2][60]Te será muy útil si sabes[3]cómo y cuando usarla[43]![Waitkey][Scroll][60]Está rodeada de misterio![END]
+
+
+[60]BOING![60]El Gancho![2]Se extiende y contrae, y es[3]útil para agarrarte a objetos![END]
+
+
+[60]Has conseguido Bombas![2][60]Puedes recogerlas del suelo[3]y lanzárselas al enemigo![Waitkey][Scroll](Pulsando el botón [A])[END]
+
+
+[60]Es una Botella Mágica![2][60]Puedes meter cosas dentro[3]para usarlas más tarde![END]
+
+
+[60]Consigues la Llave Maestra![2]Es la llave más valiosa de la[3]mazmorra. Abre cerraduras que[Waitkey][Scroll]las llaves pequeñas no pueden.[END]
+
+
+[60]Consigues el Guante Titán![2][60]Ahora puedes levantar las[3]piedras que antes no podías![END]
+
+
+[60]Te ha dado el Espejo Mágico![2]Es un espejo azul, claro[3]y maravilloso[43][Waitkey][Scroll]Se diría que puede absorberte[Scroll]y llevarte a otro mundo[43][END]
+
+
+[61]Esta es?[60]La Espada Maestra![2]Pero[43] No, no puede ser[3]esta[43] Vaya.[END]
+
+
+{6B}C{7A}DDe pronto, Sahasrahla te habla[2]usando sus poderes[3]telepáticos[43][Waitkey][Scroll][60][Name], es extraordinario que[Scroll]empuñes la Espada Maestra![Waitkey][Scroll]Con esa prodigiosa espada,[Scroll]podrás enfrentarte a los[Scroll]siniestros poderes del Brujo.[Waitkey][Scroll][Scroll]El destino de nuestra tierra[Scroll]está en tus manos, [Name].[END]
+
+
+Je, je, je[43] [60]Gracias![2]Esta es la Poción Roja.[3]Usala para recuperar tu vida[43][END]
+
+
+Je, je, je[43] [60]Gracias![2]Esta es la Poción Verde.[3]Repone tu indicador de magia[43][END]
+
+
+Je, je, je[43] [60]Gracias![2]Esta es la Poción Azul.[3]Usala para ganar vida y magia.[END]
+
+
+[60]Te han prestado una red![2][60]Quizás puedas usarla para[3]cazar algo más que bichos![END]
+
+
+[60]La Cota de Malla Azul![2][60]Esta armadura disminuye[3]todo el daño recibido![END]
+
+
+[60]La Cota de Malla Roja![2][60]Te da incluso más protección[3]que la Cota de Malla Azul![END]
+
+
+[60]Genial![60]Tu espada es más[2]fuerte![60]Sientes su poder[3]por todo tu cuerpo![END]
+
+
+[60]Encuentras el Escudo Espejo![2][60]Refleja rayos que tu viejo[3]escudo no podía![END]
+
+
+[60]Consigues el Bastón de Byrna![2][60]Al usarlo un aura te[3]protegerá![END]
+
+
+[61]Eh? [60]No se abre![2]Si tuvieses la Llave Maestra,[3]quizás[43][END]
+
+
+[60]No te queda poder mágico![2]Por ahora no podrás usarlo[43][3][60]Vigila tu indicador de magia![END]
+
+
+[60]Los Zapatos de Pegaso![2][60]Ahora podrás atacar con la[3]rapidez del caballo alado![Waitkey][Scroll](Para usarlos mantén [A])[END]
+
+
+[60]Vaya![60]No había visto a una[2]persona normal en 100 años![3]Hablemos un poco[43][END]
+
+
+[61]Viste la Gárgola del pueblo?[2]Dicen que se puede oir a una[3]chica pedir ayuda bajo ella.[Waitkey][Scroll]La verdad es que ya nada me[Scroll]extraña[43][END]
+
+
+Sorprendentemente, la[2]Trifuerza creó este mundo para[3]cumplir el deseo de Ganon.[Waitkey][Scroll][61]Qué cuál es?[Scroll][60]Conquistar el universo![Scroll][61]No crees que su deseo puede[Waitkey][Scroll]cumplirse teniendo la Trifuerza[Scroll]con él?[END]
+
+
+Vivía en el Bosque Perdido,[2]hasta que un día entré en[3]un portal mágico[43][Waitkey][Scroll]Y en el Mundo de las Tinieblas[Scroll]su oscuro poder me transformó[Scroll]rápidamente en un árbol.[Waitkey][Scroll]Diría que los dos bosques[Scroll]están conectados entre sí[43][END]
+
+
+He oído que usar Bombas[2]contra los cíclopes es la[3]mejor manera de vencerlos.[Waitkey][Scroll][60]Eso es todo lo que sé![END]
+
+
+[60]Deja de molestarme![2][60]Y mira adónde te lanzas[3]cuando vas corriendo![END]
+
+
+[60]El Colgante de la Fuerza![2][60]Ya los tienes todos![3][60]A por la Espada Maestra![END]
+
+
+[60]El Colgante de la Sabiduría![2]Estás cerca, [60]A por el último![END]
+
+
+[60]Hola, "Luzmundero"![2][60]Estás en la galería de tiro![3]5 Flechas por 20 Rupias.[Waitkey][Scroll][61]Quieres probar tu puntería?[Scroll]Pareces hábil. Si es así, puedes[Scroll]ganar una pequeña fortuna[43][Waitkey][Scroll][60]Anímate, forastero! [Scroll]{88}|> Vale[Scroll]{88}{89}Ni hablar[43][Choose][END]
+
+
+[60]Muy bien![60]Afina tu puntería![2][61]Listos? [60]YA![END]
+
+
+Bien amiguito, puedes[2]darte la vuelta y salir por[3]donde has venido.[Waitkey][Scroll][60]Hasta luego![Scroll][60]Que tengas un buen día![END]
+
+
+[61]Quieres disparar de nuevo?[2]{88}|> Sí[3]{88}{89}No[Choose][END]
+
+
+{88}[S2] FUENTE DE LA FELICIDAD [S2][2]"Arroje unas Rupias al agua y[3]sus deseos se harán realidad."[Waitkey][Scroll][61]Quieres tirar unas cuantas?[Scroll]{88}|> Venga, vale[Scroll]{88}{89}Mejor no[43][Choose][END]
+
+
+Elige un objeto usando[2]el pad y arrójalo con el[3]Botón [Y].{69}[END]
+
+
+Hola. [61]Has tirado esto?[2]{88}|> Sí[3]{88}{89}[61]Yo[43]?[Choose][END]
+
+
+Veo honradez en ti[43][2]A cambio, te daré algo mejor.[END]
+
+
+[61]Seguro que no es tuyo?[2]{88}|> En serio, no es mío[3]{88}{89}La verdad es que sí[43][Choose][END]
+
+
+Vamos, no me mientas[43][2]Por favor, tómalo.[END]
+
+
+[60]Consigues el Bumerán Mágico![2][60]Es más rápido y[3]tiene mayor alcance![END]
+
+
+[60]Tu escudo ha mejorado![2][60]Ahora puedes defenderte de[3]Bolas de Fuego![END]
+
+
+Esas son Flechas de Plata.[2][60]Las necesitarás para[3]derrotar a Ganon![END]
+
+
+Ha llenado tu botella con[2]Poción Verde. [60]Que suerte que[3]te haya regalado una poción![END]
+
+
+[60]Tu espada es más poderosa![2][60]Puedes sentir su poder[3]en tus manos![END]
+
+
+Tu felicidad aumenta {6C}D{6C}C Rupias.[2]En total, tu felicidad es de {6C}B{6C}A.[3]Eres un poco más feliz.[END]
+
+
+Haré realidad tu deseo.[2][Espacio 2]|>Quiero llevar más Bombas[3]{88}Quiero llevar más Flechas{6F}[END]
+
+
+Aumentaré la capacidad de tu[2]bolsa para que puedas llevar[3]hasta {6C}B{6C}A Bombas.[Waitkey][Scroll]Es sólo un pequeño favor para[Scroll]alegrarte el día[43][END]
+
+
+Entonces haré más grande tu[2]carcaj para que puedas llevar[3]hasta {6C}B{6C}A Flechas.[Waitkey][Scroll]Es sólo un pequeño favor para[Scroll]alegrarte el día[43][END]
+
+
+No puedo darte más deseos,[2]pero una amiga mía quizá pueda...[Waitkey][Scroll]Vive en la Cascada[Scroll]del Deseo cerca del lago de[Scroll]Zora. Te devolveré tus Rupias.[Waitkey][Scroll]Quizás así seas feliz[43][END]
+
+
+[60]Eh, mira por dónde pisas![2]Hay agujeros en el suelo.[3]Pasa por la derecha del hoyo.[Waitkey][Scroll]Jovencito, [61]Tú también vienes[Scroll]aquí buscando el Poder Dorado?[Waitkey][Scroll]Pues la montaña está repleta[Scroll]de feroces criaturas y[Scroll]monstruos terribles.[Waitkey][Scroll]Y no serías el primero que[Scroll]desaparece en ella buscando[Scroll]el Poder Dorado[43][Waitkey][Scroll]Déjame darte un consejo, chico[Scroll]abandona ahora que aún[Scroll]puedes[43][END]
+
+
+Ohh[43][Espacio 2]Debe haber un[2]corazón en la botella.[END]
+
+
+Mmm[43] Gira a la derecha.[2][61]Sabes?, tengo una nieta[3]de tu edad[43][Waitkey][Scroll]El rey se la llevó al castillo[Scroll]y nunca regresó. [60]Esos Raptos[Scroll]deben ser obra del Brujo![Waitkey][Scroll]Seguro que trata de usar de[Scroll]algún modo el poder de los[Scroll]descendientes de los Siete[Waitkey][Scroll]Sabios[43][END]
+
+
+[60]Eh![60]Menudo susto![2]Si vas a subir a la montaña,[3][61]me llevarías contigo?[Waitkey][Scroll]He perdido mi vela y[43][END]
+
+
+Las doncellas siguen vivas[2]en algún lugar y un héroe[3]acudirá a rescatarlas[43][Waitkey][Scroll]Espero que llegue pronto ese[Scroll]día. Tiempos difíciles[43][Scroll]Y yo hablo demasiado.[Waitkey][Scroll]Gracias por ser tan amable[43][Scroll]Toma, si ves un punto mágico[Scroll]que pueda transportarte al[Waitkey][Scroll]otro mundo, usa este espejo.[END]
+
+
+El Brujo ha engañado al rey,[2]y ahora trata de abrir el sello[3]del Mundo de las Tinieblas.[Waitkey][Scroll]Para tu misión necesitarás la[Scroll]Perla Lunar, que está en la[Scroll]torre de la montaña.[Waitkey][Scroll]Todo lo que puedo hacer yo es[Scroll]darte fuerzas para el camino[43][END]
+
+
+La Perla Lunar protegerá a[2]quien la lleve del aire mágico[3]de la Tierra Dorada.[Waitkey][Scroll]Todo lo que puedo hacer por[Scroll]ti es darte energía[43][Scroll]Vuelve cuando lo desees.[END]
+
+
+[Name], creo que el Brujo[2]comunicó los dos mundos en[3]alguna parte del castillo.[Waitkey][Scroll]Todo lo que puedo hacer por[Scroll]ti es calmarte dolor[43][Scroll][END]
+
+
+[60]Oh![43][60]Mi hijo, mi pobre hijo![2]Le encantaba tocar la ocarina,[3]pero la dejó por ir en busca de[Waitkey][Scroll]el maldito Poder Dorado y desde[Scroll]entonces nadie le ha visto.[Scroll][61]Dónde se habrá metido?[Waitkey][Scroll]Me pregunto qué estará[Scroll]haciendo[43][Scroll]Zzzzzzzz[43][43][END]
+
+
+[60]Oh![43][60]Pero si es la Ocarina[2]que llevaba siempre mi hijo![3][61]Lo has visto? [61]Dónde está?[Waitkey][Scroll][43] [43] [43][Waitkey][Scroll]Oh, ya veo[43][Scroll]Entiendo lo que intentas decir,[Scroll]lo veo en tus ojos[43][END]
+
+
+Anda, quédate la Ocarina y[2]tócala como lo hacía mi hijo,[3]junto a la veleta del pueblo.[Waitkey][Scroll]Hazlo por este pobre viejo.[Scroll]Seguro que mi hijo también lo[Scroll]hubiese querido así.[END]
+
+
+Zzzzzzz[Espacio 2]Zzzzzzzz[2][43][Espacio 2][43][Espacio 2][43][3]Ronquido[Espacio 2]Zzzzzz[Espacio 2]Zzzzzz[END]
+
+
+Oh, [Name].[Espacio 2]Los rumores dicen[2]que has raptado a la princesa,[3]pero yo no lo creo.[END]
+
+
+[60]Guau! [60]Me has alcanzado![2]Con tu velocidad, raptar a la[3]princesa Zelda debió ser fácil[43][Waitkey][Scroll]Bueno, no pareces un mal chico.[Waitkey][Scroll]Como veo que eres tan rápido[Scroll]como yo, te contaré una cosa[Scroll]que seguro te será de ayuda[43][Waitkey][Scroll]Prueba a correr y chocarte[Scroll]contra muchas cosas[43][Waitkey][Scroll]Por ejemplo, los árboles de[Scroll]este pueblo tienen frutos[Scroll]muy sabrosos en sus ramas[43][Waitkey][Scroll]Aunque otros árboles podrían[Scroll]tener algo aún más valioso[43][END]
+
+
+[60]Más te valdría correr hacia[2]la meta que perder el tiempo[3]leyendo este cartel![END]
+
+
+Daré un trozo de corazón[2]a la persona que lleve la Capa.[END]
+
+
+"Que caiga una maldición sobre[2]aquel que arroje algo a mi[3]hermoso círculo de piedras."[END]
+
+
+{88}{88}{4D} Bosque Esqueleto [3]{88}{88}{4E} Pueblo Desterrado[END]
+
+
+[2]{88}{88}{50} Cueva[END]
+
+
+[2]{88}{88}{50} Palacio Oscuro[END]
+
+
+[2]{88}[Espacio 2]{4F} Tienda de las Bombas[END]
+
+
+{4F}[Espacio 2]Marisma del Diablo[2]{88}{88} No entrar[3]{88}{88} Sin salida[END]
+
+
+Este es el Pueblo Desterrado.[2]La gente sin Rupias no es[3]bienvenida.[END]
+
+
+La Cascada de los Deseos está[2]a la vuelta de la esquina.[END]
+
+
+[2]{88}{50} {4D} Lago del Mal Aguero[END]
+
+
+Después de que Agahnim[2]lo conquistara todo, empezó a[3]hacer cosas muy extrañas.[Waitkey][Scroll]Supongo que será cuestión de[Scroll]tiempo para que yo también[Scroll]empiece a hacerlas[43][END]
+
+
+[60]Oye, tú![60]Mocoso![2][60]No puedes entrar al castillo![3][60]Vete a tu casa a dormir![END]
+
+
+{6B}C[Name], soy yo, Sahasrahla.[2]Puedo hablarte telepáticamente[3]cuando tocas esta losa.[Waitkey][Scroll]Una ayuda[43] Usa el arma oculta[Scroll]en la mazmorra para vencer[Scroll]a los enemigos con armadura.[END]
+
+
+{6B}C[Name], soy yo, Sahasrahla.[2]Un orbe conocido como la Perla[3]Lunar está en esta torre.[Waitkey][Scroll]Quien posea la perla será[Scroll]capaz de mantener su forma[Scroll]en el Mundo de las Tinieblas.[Waitkey][Scroll]Cuando la encuentres, debes[Scroll]escapar de la torre.[Scroll]No lo olvides[43][END]
+
+
+{88}[S1][S2][S1][S3][S1][S2][S1][S3][Espacio 2][S1][S2][S2][S2][S2] [S1][S3][S1][S2][S1][S3][2]{88}{88}[S1][S3][S1][S1][S2][Espacio 2][S1][S3][S1][S2][S1][S3][3]{88}[Espacio 2][S1][S2][S1][Espacio 2][S3][S1][S1][S2][S1][S3][Espacio 2][S3][S2][S1][S1][S3][END]
+
+
+"Sólo el Héroe que obtenga[2]los tres símbolos de la virtud,[3]podrá evitar el cataclismo.[Waitkey][Scroll]Sólo entonces será suya[Scroll]la Espada Maestra y renacerá[Scroll]el linaje de los Caballeros."[END]
+
+
+{6B}C[Name], soy yo, Sahasrahla.[2]Debes buscar el modo de llegar[3]a la Roca de los dos Ojos.[Waitkey][Scroll]Desde ella podrás alcanzar[Scroll]la Torre de Hera, en la cima[Scroll]de la Montaña de la Muerte.[END]
+
+
+{6B}C[Name], soy yo, Sahasrahla.[2]Todo existe a la vez en ambos[3]mundos con formas similares[43][Waitkey][Scroll]Si cambia la forma de algo en[Scroll]un mundo, su equivalente[Scroll]lo hará también en el otro.[END]
+
+
+{6B}C[Name][43][Espacio 2]Soy yo, Zelda[43][2][60]Que no te engañe la magia[3]de Cegatox, el Ladrón![END]
+
+
+{6B}C[Name],[Espacio 2]soy yo, Sahasrahla.[2]Debes encender las cuatro[3]antorchas para continuar.[END]
+
+
+{88}{88}[Espacio 2][S1][S3][S1][S2][Espacio 2][S1][S3][S1][S2][S1][S2][S1][2]{88}{88}[Espacio 2][Espacio 2][S1][S2][S1][S3][S1][S3][S1] [S2][S1][S3][3]{88}{88}[Espacio 2][S1][S2][S1][Espacio 2][S3][S1][S3][S1][S2][S1][S3][S1][END]
+
+
+"Para seguir tu camino,[2]pide aquí tu deseo[3]y te será concedido."[END]
+
+
+{6B}C[60]Cuando Ganon se paralice,[2]golpéale con las Flechas de[3]Plata![Waitkey][Scroll][61]Lo entiendes, [Name]?[END]
+
+
+{6B}C[Name], soy yo, Zelda.[2]Estoy en la Roca de la Tortuga[3]en la Montaña de la Muerte.[Waitkey][Scroll][60]El Brujo me encerró aquí![Scroll][60]Por favor, ven a rescatarme![END]
+
+
+{6B}C[Name], soy yo, Sahasrahla.[2]Encuentra todos los tesoros[3]de cada mazmorra.[END]
+
+
+{6B}CEscúchame bien, [Name].[2]Ni siquiera la Espada Maestra[3]puede causar daño al Brujo.[Waitkey][Scroll]Debes encontrar el modo de[Scroll]repeler sus ataques y volver[Scroll]su magia contra él.[END]
+
+
+{6B}C[Name], no uses todo tu[2]poder mágico si no tienes la[3]Poción Verde.[Waitkey][Scroll]Ahora prepárate para la[Scroll]mazmorra[43][END]
+
+
+{6B}C[Name], [61]tienes Poción Verde?[2]Te recomiendo que busques[3]una antes de continuar.[END]
+
+
+{6B}C[Name], [61]tienes Poción Verde?[2]Te recomiendo que busques[3]una antes de continuar.[END]
+
+
+{6B}CNo puedes derrotar al[2]Caballero Esqueleto sólo[3]con tu espada. Cuando caiga,[Waitkey][Scroll]atácale con otra arma.[END]
+
+
+{6B}C[Name], soy yo, Sahasrahla.[2]Te voy a dar un consejo[43][3]Si te miras en el Espejo Mágico[Waitkey][Scroll]cuando estés en una mazmorra,[Scroll][60]volverás a la entrada![END]
+
+
+Mi nombre es Chris Holihan.[2]Esta es mi sala secreta.[3]Guarda el secreto por favor.[END]
+
+
+[60]Has atrapado una abeja![Waitkey][2][61]Qué harás?[3]{88}|> Guardarla en una botella[Scroll]{88}{89}Soltarla[Choose][END]
+
+
+[60]Has atrapado un hada![Waitkey][2][61]Qué harás?[3]{88}|> Guardarla en una botella[Scroll]{88}{89}Soltarla[Choose][END]
+
+
+No tienes botellas vacías.[2]No tienes elección[43][3]Déjala ir[43][END]
+
+
+Has tardado[2]{6C}D{6C}C min {6C}B{6C}A segs.[END]
+
+
+Si llegas a la meta en 15[2]segundos, te daremos un[3]regalo.[Waitkey][Scroll]Preparado, listo[43], [60]YA![END]
+
+
+[60]Lo has logrado![60]Felicidades![2][60]Y como premio, te entrego[3]esta Pieza de Corazón![END]
+
+
+[60]No lo has conseguido![2][60]Lo siento![3][61]Por qué no pruebas otra vez?[END]
+
+
+No tengo nada más para[2]darte. [60]Lo siento![END]
+
+
+Tienes que entrar al[2]circuito por su sitio[3]para conometrarte[43][END]
+
+
+No serás uno de esos que van[2]por ahí sin una de mis botellas[3]"guardalotodo", [61]verdad?[Waitkey][Scroll][60]Su oportunidad![60]Es justo[Scroll]lo que andaba buscando![Scroll]Tengo una a muy buen precio,[Waitkey][Scroll][60]Sólo 100 Rupias![Scroll][60]Una ganga![Waitkey][Scroll][61]Qué me dices? [61]Te interesa?[Scroll]{88}|> Vale me llevo una[Scroll]{88}{89}No me interesa[Choose][END]
+
+
+[60]Buena elección![60]Gracias![2]Ahora, enséñala bien alto para[3]que todo el mundo la vea, [61]eh?[Waitkey][Scroll][60]Así atraes más clientes![END]
+
+
+Asi que estás sin blanca, [61]eh?[2]Vaya, pues vuelve cuando[3]tengas Rupias. Igual sigo aquí.[END]
+
+
+He vendido todas mis[2]botellas[43] Vuelve más tarde[43][END]
+
+
+[60]Oh![Espacio 2][60]Nunca había visto[2]un bicho tan raro![3]Lo compro por 100 Rupias,[Waitkey][Scroll][61]Vale?[60]Hecho![END]
+
+
+[60]Oye![60]Dicen que comer[2]pescado te hace listo![3][60]Tienes que darme ese pez,[Waitkey][Scroll][61]Vale?[60]Hecho![END]
+
+
+[60]Eh, [Name]! Parece que[2]tienes problemas, pero esto[3]es todo lo que tengo.[END]
+
+
+[60]Oye![2][60]Bienvenido![3][Waitkey][Scroll][60]Pídenos lo que sea![Scroll]{88}|> Forjad mi espada[Scroll]{88}{89}Sólo miraba[Choose][END]
+
+
+[60]Te haré un gran descuento![2]{88}|>Forjar por[43] 10 Rupias[3]{88}[Espacio 2]Espera[43][Choose][END]
+
+
+Forjarla, [61]eh?[Espacio 2][61]Seguro?[2]{88}|> Si[3]{88}{89}Mejor no[43][Choose][END]
+
+
+[60]Lo siento![2]No podemos hacer nada más[3]poderoso por ahora[43][END]
+
+
+Vuelve cuando quieras. [2][60]Estamos para trabajar![END]
+
+
+[60]Vale, sin problema![2]Nos quedaremos con tu[3]espada durante un rato[43][END]
+
+
+[60]Tu espada está forjada![2][60]Cógela![END]
+
+
+Podríamos forjar tu espada si[2]mi compañero perdido volviese,[3]pero ahora no puedo hacer[Waitkey][Scroll]nada por ti.[END]
+
+
+[60]Oh![60]Otra vez días felices![2][60]Encontraste a mi compañero![3]Estamos muy felices[43][Waitkey][Scroll][60]Ahora podemos forjar tu[Scroll]espada perfectamente![END]
+
+
+Conejo[43] conejito[43][2][60]Tu cuerpo no ha cambiado![3]No eres un chico normal.[Waitkey][Scroll]Solía vivir en el pueblo[Scroll]Kakariko. Me pregunto qué hará[Scroll]mi compañero sin mí[43][Waitkey][Scroll]Quiero pedirte un favor.[Scroll][60]Llévame con mi compañero![Scroll][60]Por favor![END]
+
+
+Lo siento, aún no hemos[2]terminado. Vuelve más tarde.[END]
+
+
+[60]Gracias![2][60]Gracias![END]
+
+
+[60]Eh, los principiantes no[2]deben intentar esto.[3][60]No molestes![END]
+
+
+Tras llegar a este mundo,[2]mi forma cambió.[3][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Yo, antes, cuando estaba en el[Scroll]mundo del que vengo, me[Scroll]divertía tocando la ocarina[43][Waitkey][Scroll]Había un bosquecillo como este[Scroll]donde se reunían los animales.[Scroll][60]Ya me gustaría volver![Waitkey][Scroll]Enterré allí mi ocarina y[Scroll]planté unas flores en el lugar.[Waitkey][Scroll][61]Podrías traérmela?[Scroll]{88}|> Sí[Scroll]{88}{89}No puedo[Choose][END]
+
+
+Entonces, te dejaré mi pala.[2][60]Suerte![END]
+
+
+[43][Espacio 2][43][2]Ya veo. No te lo preguntaré[3]más. Adiós[END]
+
+
+[61]Encontraste mi ocarina?[2][43][3]Por favor, búscala[43][END]
+
+
+[60]Gracias, [Name]! [43][Espacio 2][43][2]Vaya, parece que ya no podré[3]tocarla[43] Anda, quédatela tú.[Waitkey][Scroll]Si pasas por mi pueblo,[Scroll]dásela a un hombre viejo[Scroll]y cansado que allí vive.[Waitkey][Scroll]Me fallan las fuerzas[43][Scroll]Anda, déjame oír el sonido de[Scroll]mi Ocarina por última vez[43][END]
+
+
+{6D}B[60]Abracadabra![2]Encontrarás al anciano[3]Sahasrahla[43][END]
+
+
+{6D}B[60]Abracadabra, Alakazam![2]El Libro de Mudora abrirá[3]algo en el desierto[43][END]
+
+
+{6D}B[60]Abracadabra![2]Te veo en el desierto, hablando[3]con un descendiente del linaje[Waitkey][Scroll]de los Siete Sabios.[END]
+
+
+{6D}B[60]Abracadabra, Alakazam![2]En la Tienda de Pociones verás[3]a un amante de las setas[43][END]
+
+
+{6D}B[60]Abracadabra![2]Te veo remontando el río para[3]hablar con un gran Zora.[END]
+
+
+{6D}B[60]Abracadabra, Alakazam![2]El héroe verdadero encontrará[3]la Perla Lunar en la Montaña[43][END]
+
+
+{6D}B[60]Abracadabra![2]Ni siquiera la Espada[3]Maestra puede herir al Brujo[43][END]
+
+
+{6D}B[60]Abracadabra, Alakazam![2]El verdadero Héroe saltará al[3]pozo abierto junto a la fragua.[END]
+
+
+{6D}BBueno, debo reconocer que hoy[2]no estoy muy fino.[3]Pero vuelve en otra ocasión[43][END]
+
+
+{6D}BMmm[43][Espacio 2]Tienes pinta de tener[2]un destino interesante[43][3][61]Quieres que te lea el futuro?[Waitkey][Scroll]Te haré buen precio[43][Scroll]{88}|> Cuéntamelo todo[43][Scroll]{88}{89}No me interesa[Choose][END]
+
+
+{6D}BAhora te cobraré {6C}A{6C}B Rupias.[2][60]Que los astros te sean[3]propicios! Je, je, je[43][END]
+
+
+{6D}BEres un pobre hombre al[2]que no le interesa su futuro[43][3]Esperaré tu regreso[43][END]
+
+
+{6D}B[60]Abracadabra![2]Conocerás a un hombre raro[3]en el desierto[43][END]
+
+
+{6D}B[60]Abracadabra![2]Esa Tienda de chismes del[3]Mundo de las Tinieblas tiene[Scroll]tesoros para el que pregunte[43][END]
+
+
+{6D}B[60]Abracadabra![2]El compañero del herrero está[3]en el Pueblo Desterrado[43][END]
+
+
+{6D}B[60]Abracadabra![2]Encontrarás un tesoro[3]descansando en paz en[Scroll]el cementerio[43][END]
+
+
+{6D}B[60]Abracadabra![2]Comprarás un nuevo tipo de[3]bombas en la Tienda de las Bombas[43][END]
+
+
+{6D}B[60]Abracadabra, Alakazam![2]Busca dentro de la pirámide del[3]Mundo de las Tinieblas[43][END]
+
+
+{6D}B[60]Abracadabra![2]Una barrera te impedirá[3]entrar a la torre de Ganon.[END]
+
+
+{6D}B[60]Abracadabra, Alakazam![2]Necesitarás Flechas de Plata[3]para derrotar a Ganon.[END]
+
+
+[60]Eh![60]Si me das 20 Rupias, te[2]contaré una historia![3][Waitkey][Scroll][61]Qué me dices?[Scroll]{88}|> De acuerdo[Scroll]{88}{89}No me interesa[Choose][END]
+
+
+[60]Ah![60]Gracias! Dicen que en el[2]lago en el que nace el río[3]hay un círculo de rocas.[Waitkey][Scroll]Y puede que valga la pena[Scroll]lanzar algo ahí dentro[43][Scroll]Je, je[43][60]Adiós![END]
+
+
+[60]Je, je! Ya veo. Lo siento,[2]pero no puedo perder tiempo[3]hablando con pobretones[43][END]
+
+
+Je, je, gracias. Si te digo la[2]verdad, solía ser un ladrón[3]en el Mundo de la Luz[43][Waitkey][Scroll]Algunos seguidores míos se[Scroll]escondieron porque tenían[Scroll]miedo de que les atraparan.[Waitkey][Scroll]Uno de ellos era un maestro[Scroll]cerrajero, pero ahora esconde[Scroll]su verdadera personalidad[43][Waitkey][Scroll][60]Ahora aparenta ser un hombre[Scroll]extraño de mediana edad![Scroll][60]Ja, ja, ja![END]
+
+
+[60]Ja![Espacio 2]Gracias. Si te digo la[2]verdad, me encontré con una[3]belleza dentro de la pirámide,[Waitkey][Scroll]pero alguien ha sellado la[Scroll]puerta. Dicen que una bomba[Scroll]normal no servirá[43][END]
+
+
+Je, je, gracias. La magia[2]de los monstruos hace que[3]llueva en la marisma.[Waitkey][Scroll]Si puedes mover el aire con[Scroll]mayor potencia que los[Scroll]monstruos, la lluvia cesará.[END]
+
+
+Sniff[43] [60]Hola, [Name]![2][61]Ya tienes una botella donde[3]poder guardar los bichos?[Waitkey][Scroll]Eh[43][Scroll]No, no tienes una[43][Scroll][60]Achís![43][60]Achís![43][END]
+
+
+Hola[43][60]Achís! Estoy enfermo y[2]no puedo salir[43] [60]Achís![3]La gente dice que cogí este[Waitkey][Scroll]resfriado por el aire malo que[Scroll]llega de la montaña[43] Sniff[43][Scroll][61]Te gusta mi red? La volveré[Waitkey][Scroll]a usar para cazar bichos[Scroll]cuando esté mejor, pero[Scroll]mientras tanto te la dejo.[END]
+
+
+Sniff[43] Espero que me ponga[2]bueno pronto[43][END]
+
+
+[43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][2][43][Espacio 2][43][Espacio 2][43][END]
+
+
+[61]Por qué has cogido el cartel?[2][60]Creo que decía bien claro[3]que me dejases en paz![END]
+
+
+Veo que sabes que antes[2]era un ladrón.[3][Waitkey][Scroll]Bueno, abriré un cofre para ti.[Scroll][61]Me prometes guardar el[Scroll]secreto?[Waitkey][Scroll][61]Lo prometes?[Scroll]{88}|> Prometo no contarlo[Scroll]{88}{89}Lo diré a todos[Choose][END]
+
+
+[60]Vale, si eso es lo que[2]quieres, ojalá arrastres ese[3]cofre toda tu vida![END]
+
+
+Recuerda la promesa[43][2]No decir nada.[END]
+
+
+Vale, tráeme ese cofre.[2]En serio, no se lo digas[3]a nadie.[END]
+
+
+{88}{88}[Espacio 2][S2][S3][S2][S3][S2][S3][S2][S3][S2][S3][S2][Espacio 2][S2][S2][S3][2]{88}{88}[S2][S1] [S3][S3][S1][S2][S1] [S3][S2][S1][S3] [S2][S1][S3][S2][S1][3]{88}{88}{88}[S2][S3][S2][S3][S2][Espacio 2][S3][S2][S1][S2][S1][END]
+
+
+"Alza la Espada Maestra y[2]recibirás el poder de la Helada."[END]
+
+
+"Alza la Espada Maestra aquí[2]para que te sea concedido [3]el poder de la Llamarada."[END]
+
+
+[60]Eh![60]Te maldigo por romper[2]mi profundo sueño![43] Ejem,[3]quiero decir, [60]muchas gracias![Waitkey][Scroll][60]No!, quiero decir[43][Scroll][60]Pagarás por esto, en guardia![Scroll]Vamos, si te apetece[43][END]
+
+
+[60]Je, je, je![60]Me río de tu[2]desgracia![60]Ahora tus poderes[3]se reducen a la mitad![Waitkey][Scroll][60]Enhorabuena![Scroll][60]Y ahora haz lo que puedas,[Scroll][60]si es que puedes hacer algo![END]
+
+
+{6E}A{77}H{7A}D{6B}C{67}Mucho tiempo ha, en el hermoso[2]reino de Hyrule, rodeado de[3]montañas y bosques,{78}C[Scroll]contaba la leyenda que se[Scroll]ocultaba un poder omnipotente[Scroll]llamado el Poder Dorado.{78}H[Scroll]Permaneció lejos del alcance[Scroll]del hombre en un lugar remoto[Scroll]y sagrado, hasta que un día[43]{78}C{67}{67}[Scroll]Se abrió un portal que conducía[Scroll]a ese lugar[43]{78}C[Scroll]Y los humanos empezaron a[Scroll]luchar entre ellos para entrar[Scroll]a la remota Tierra Dorada,{78}C[Scroll]pero ninguno regresó jamás.{78}H[Scroll]Y en su lugar, a través de[Scroll]aquel portal, irrumpió el Mal[43]{67}{67}[Scroll]Temeroso, el Rey pidió a Siete[Scroll]Sabios que sellaran el portal,[Scroll]para así proteger su reino.{78}C{67}{67}[Scroll]Bravos caballeros perecieron[Scroll]para que el sello permaneciera[Scroll]durante toda la eternidad[43]{78}H[Scroll]Pero cuando estos eventos[Scroll]se disiparon en el tiempo y[Scroll]se convirtieron en leyenda[43][END]
+
+
+{6B}C{77}H{7A}D[1]Un misterioso brujo conocido[2]como Agahnim llegó a Hyrule[3]desde una tierra desconocida[43]{78}D[Scroll]y logró eliminar al Rey de[Scroll]Hyrule utilizando sus extraños[Scroll]poderes mágicos[43]{78}F[END]
+
+
+{6B}C{77}H{7A}D[1]Hechizó a los Soldados y raptó[2]a las doncellas descendientes[3]de los Siete Sabios para{78}D[Scroll]romper el sello[43]{78}F[END]
+
+
+{6B}C{77}H{7A}D[1]Ahora el destino está cerca de[2]la última de todas las doncellas[3]la princesa Zelda[43]{78}F[END]
+
+
+La llave del cofre está[2]dentro de él, así que[3]no podrás abrirlo.[Waitkey][Scroll]Llévalo contigo.[END]
+
+
+[60]30 Bombas por 100 Rupias![2][60]Llévese 30 Bombas por[3]100 Rupias![60]Compre, caballero![END]
+
+
+[60]30 Bombas por 100 Rupias![2][60]También tengo una Súper[3]Bomba por sólo 10 Rupias![Waitkey][Scroll][60]Compre, caballero![END]
+
+
+Muchas gracias.[2]Muchas gracias.[END]
+
+
+Muchas gracias.[2]Puedes dejar esta bomba donde[3]quieras[Waitkey][Scroll](Pulsa el Botón [A])[Waitkey][Scroll]Por favor, no lo olvides.[END]
+
+
+[60]Ki ki, ki ki! Si me das[2]100 Rupias, te abriré la[3]puerta. [61]Ki ki?[Waitkey][Scroll][61]Quieres?[Scroll]{88}|> Vale, ábrela[Scroll]{88}{89}Lo haré yo[43][Choose][END]
+
+
+[60]Ki ki ki![60]Jo![2][60]Pues ábrela tú![3][60]Ki ki ki![END]
+
+
+[60]Ki ki![60]Chico listo![2]Cogeré 100 Rupias tuyas.[3][60]Ki ki ki![END]
+
+
+[60]Soy Kiki, el mono![60]Ki ki![2]Me gustan las Rupias más que[3]a un tonto una tiza.[Waitkey][Scroll][61]10 Rupias das?[Waitkey][Scroll][61]Qué harás?[Scroll]{88}|> Toma 10 Rupias[Scroll]{88}{89}Ni loco[Choose][END]
+
+
+[60]Ki ki, ki ki![60]Chico listo![2]Contigo iré. [3][60]Kiki, kiki![END]
+
+
+[60]Ki ki![60]Grrr![2]Nada contigo quiero.[3][60]Adiós![60]Ki ki ki![END]
+
+
+[61]Ki ki? [61]Qué estás haciendo?[2][60]No quiero ir allí![END]
+
+
+[60]Oh, muchas gracias![2]Has salvado mi vida. Por[3]favor, llévame fuera.[END]
+
+
+[60]Aaaah![2][60]Cuánta luz![END]
+
+
+Err[43][Espacio 2]Espera un momento[43][2]Por favor, no sigas por ahí.[END]
+
+
+Soy Aginah. Siento que algo[2]sucede en la Tierra Dorada[3]sellada por los Siete Sabios[43][Waitkey][Scroll]Este puede ser el presagio del[Scroll]Gran Cataclismo que los Hylia[Scroll]profetizaron tiempo ha[43][Waitkey][Scroll]La profecía dice, "El Héroe se[Scroll]alzará en medio del desierto[Scroll]portando el Libro de Mudora."[Waitkey][Scroll]El que posea el Libro de[Scroll]Mudora podrá leer la antigua[Scroll]lengua hyliana.[Waitkey][Scroll]Debería de encontrarse por la[Scroll]Biblioteca del pueblo[43][Waitkey][Scroll]Si realmente eres el Héroe[Scroll]sabrás como hacerte con él[43][END]
+
+
+Has conseguido los tres[2]Colgantes. Si de verdad eres[3]el Héroe que tiene Valor,[Waitkey][Scroll]Fuerza y Sabiduría, la Espada[Scroll]Maestra será tuya.[END]
+
+
+[60]Ajá! Ese es el Libro de[2]Mudora. Con él, podrás leer la[3]antigua lengua de los Hylia.[END]
+
+
+Eres el Héroe verdadero[43][2]Sé que traerás la paz a este[3]mundo otra vez[43][END]
+
+
+[60]La prueba del desierto te ha[2]hecho más fuerte![60]La sangre[3]del Héroe fluye por tus venas![END]
+
+
+[61]Por qué me has despertado[2]de mi tranquila siesta? [60]Te[3]daré esto si te vas![END]
+
+
+No tengo más regalos para ti.[2][60]Toma esto, gusano![END]
+
+
+[60]Eh, [Name]! Una misteriosa[2]niebla cubre el bosque.[3][60]Ten cuidado![END]
+
+
+Quizás sea mi imaginación,[2]pero noto algo extraño en este[3]el árbol mientras lo cortamos[43][END]
+
+
+[60]Eh, la niebla del bosque[2]se está desvaneciendo![3][60]Gracias![60]Podemos volver a ir![END]
+
+
+Sí, [Name]. Me enfadé con mi[2]hermano menor. Es una bobada[3]pero es que es muy caprichoso[Waitkey][Scroll]y a veces no se puede [61]sabes?[Scroll]Así que he tapado la puerta.[Waitkey][Scroll]Eso le enseñará a comportarse.[END]
+
+
+[61]Has abierto la puerta?[2]Vale, puede que tengas razón.[3]Haré las paces con mi hermano[43][END]
+
+
+Hola, [Name].[2][61]Has hablado con mi hermano?[3]Seguirá enfadado[43][END]
+
+
+{7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll]Este mundo era antes la Tierra[Scroll]Dorada, donde se ocultaba la[Scroll]Trifuerza.[Waitkey][Scroll]Pero Ganon, el rey de los[Scroll]ladrones, deseó cambiarlo y[Scroll]lo cubrió de tinieblas[43][Waitkey][Scroll]Ahora está acumulando poder[Scroll]porque quiere conquistar[Scroll]nuestro Mundo de la Luz.[Waitkey][Scroll]Pretende usar el poder de los[Scroll]Siete Sabios que ahora reside[Scroll]en nosotras, las doncellas,[Waitkey][Scroll]para terminar de abrir[Scroll]el portal que comunica los dos[Scroll]mundos en el Castillo de Hyrule.[Waitkey][Scroll]Pero aún estamos a tiempo, la[Scroll]puerta no está abierta del[Scroll]todo[43][Waitkey][Scroll]Las Siete Doncellas unidas[Scroll]podemos romper la barrera de la[Scroll]guarida de Ganon.[Waitkey][Scroll]Marcaré en tu mapa los lugares[Scroll]donde mantienen prisioneras a[Scroll]las demás doncellas.[Waitkey][Scroll]Y cuando acabes con Ganon[Scroll][60]yo recobraré por fin mi[Scroll]aspecto normal![43]{79}t[END]
+
+
+{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]La Trifuerza cumplirá el deseo[Scroll]de la persona que la toque[Scroll]mientras siga viviendo[43][Waitkey][Scroll]Por eso estaba oculta en la[Scroll]Tierra Dorada. Sólo unos pocos[Scroll]elegidos conocían su paredero.[Waitkey][Scroll]Desgraciadamente, con el[Scroll]tiempo, los que lo conocían[Scroll]fueron desapareciendo.[Waitkey][Scroll]Ganondorf, encontró la Tierra[Scroll]Dorada, pero no sabía cómo[Scroll]regresar al Mundo de la Luz[43][Waitkey][Scroll]Y no olvides que ahora posees[Scroll]poderes mágicos que sólo los[Scroll]Héroes como tú saben usar.[Waitkey][Scroll]Existen más puntos mágicos[Scroll]como el que viste en la[Scroll]Montaña de la Muerte.[Waitkey][Scroll]Se usan para ir de un mundo a[Scroll]otro y hallar a los demonios[Scroll]del Mundo de las Tinieblas.[Waitkey][Scroll]Sólo tú puedes acabar con[Scroll]Ganondorf, que en realidad no[Scroll]es otro que[43][Waitkey][Scroll][60]Ganon, Rey de las Tinieblas![END]
+
+
+{7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll][61]Conoces la profecía del Gran[Scroll]Cataclismo?[Scroll]Dice así[43][Waitkey][Scroll]Cuando el del corazón malvado[Scroll]sea dueño de la Trifuerza,[Scroll]un Héroe surgirá[43][Waitkey][Scroll][43]y se deberá enfrentar solo[Scroll]al que desencadenó el[Scroll]Gran Cataclismo.[Waitkey][Scroll]Si el Mal venciera al Héroe,[Scroll]entonces nada ni nadie[Scroll]estaría a salvo de su reinado.[Waitkey][Scroll]Sólo un descendiente de los[Scroll]protectores de la Casa de Hylia[Scroll]puede ser ese Héroe[43][Waitkey][Scroll]Y por tus venas corre esa[Scroll]sangre, [60]la sangre de los[Scroll]Caballeros de Hyrule![Waitkey][Scroll][60]Salva a la princesa Zelda![END]
+
+
+{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Mientras los Siete Sabios[Scroll]sellaban el paso que conducía[Scroll]al Mundo de las Tinieblas,[Waitkey][Scroll]los Caballeros de Hyrule[Scroll]los defendían de los ataques[Scroll]de las hordas del mal.[Waitkey][Scroll]Se dice que casi todos los[Scroll]Caballeros de Hyrule perecieron[Scroll]en esa batalla[43][Waitkey][Scroll]Quizás tú seas el último[Scroll]por cuyas venas corre su[Scroll]sangre[43][Waitkey][Scroll]Es irónico que el último del[Scroll]linaje sea el que se convierta[Scroll]en el Héroe de la leyenda[43][Waitkey][Scroll][60]Se que tú vencerás a Ganon![END]
+
+
+{7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll]Dicen que el pueblo hyliano[Scroll]tenía poderes misteriosos,[Scroll]como los Siete Sabios.[Waitkey][Scroll]Pero su sangre se ha ido[Scroll]debilitando con el tiempo y[Scroll]ahora ya ni siquiera nosotras,[Waitkey][Scroll]herederas de su linaje,[Scroll]tenemos sus poderes[Scroll]sobrenaturales.[Waitkey][Scroll]Pero, si reunimos el valor de[Scroll]los Caballeros con la sabiduría[Scroll]de los Siete Sabios,[Waitkey][Scroll]Quizá aun haya esperanza[Scroll]para nuestro pueblo[43][Waitkey][Scroll][Scroll]Queda poco tiempo para que el[Scroll]portal del castillo enlace[Scroll]ambos mundos para siempre.[Waitkey][Scroll]Si derrotas a Ganon, este[Scroll]infierno desaparecerá y la[Scroll]Trifuerza tendrá otro dueño.[Waitkey][Scroll]Confío en ti.[Scroll][60]Suerte, [Name]![END]
+
+
+{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Ganon nos capturó porque su[Scroll]poder solo no podía romper[Scroll]el sello de los Siete Sabios.[Waitkey][Scroll]Así, usando al Brujo Agahnim[Scroll]como un peón más, nos llevó[Scroll]al Mundo de las Tinieblas.[Waitkey][Scroll]Después de romper el sello[Scroll]con nuestros poderes, nos[Scroll]encerró en estos cristales y[Waitkey][Scroll]nos entregó a sus monstruos[Scroll]guardianes. Pero Ganon nunca[Scroll]pensó que llegarías tan lejos.[Waitkey][Scroll]Ahora, la Princesa te espera[Scroll]en la Roca de la Tortuga.[Scroll][60]Rápido, ve a rescatarla![END]
+
+
+{7A}C{6D}B{6B}CMuchas gracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]legendario.[Waitkey][Scroll]Tuve esa sensación desde la[Scroll]primera vez que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon está esperando dentro[Scroll]de su torre para cruzar el[Scroll]portal que conecta los dos[Waitkey][Scroll]mundos. Si Ganon entra en[Scroll]el Mundo de la Luz, nadie[Scroll]podrá detenerle.[Waitkey][Scroll]Pero si está en un lugar de[Scroll]este mundo, puedes encontrarlo[Scroll]allá donde él vaya.[Waitkey][Scroll][60]Ahora ve a la torre de Ganon![Scroll]Combinaremos nuestros poderes[Scroll]para romper la barrera.[Waitkey][Scroll]Devuelve la paz a Hyrule.[Scroll]No nos falles[43][Scroll][43][Espacio 2][43][Espacio 2][43]{79}t[END]
+
+
+{7A}C{6D}B{6B}CQue la senda del Héroe te[2]guíe a la Trifuerza[43][END]
+
+
+{7A}C{6D}B{6B}C[61]Comprendes?[2]{88}|>[Espacio 2]Sí[3]{88}{88}No mucho[Choose][END]
+
+
+[Name], vamos a romper la[2]barrera de la Torre de Ganon.[END]
+
+
+{7A}C{6D}B{6B}CMuchas gracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]legendario.[Waitkey][Scroll]Tuve esa sensación la primera vez[Scroll]que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon está esperando dentro[Scroll]de su torre para cruzar el[Scroll]portal que conecta los dos[Waitkey][Scroll]mundos. Si Ganon entra en[Scroll]el Mundo de la Luz, nadie[Scroll]podrá detenerle.[Waitkey][Scroll]Pero si está en un lugar de[Scroll]este mundo, puedes encontrarlo[Scroll]allá donde él vaya.[Waitkey][Scroll]Todavía quedan doncellas por[Scroll]rescatar. Cuando rescates[Scroll]a todas, ve a la Torre de Ganon.[Waitkey][Scroll]Nosotras podemos romper la[Scroll]barrera de su torre.[Scroll][Name], debes salvar Hyrule...[Waitkey][Scroll]Sé que tú puedes hacerlo[43][Scroll][END]
+
+
+Ajá[43] [Name][43][2]Te estabamos esperando[3][60]Zelda quería que vieras cómo[Waitkey][Scroll]desaparece ante tus ojos![Scroll][60]Contempla los últimos[Scroll]momentos de la Princesa![END]
+
+
+Jo, jo, jo! Con este último[2]acto malvado, he roto el sello[3]de los Siete Sabios.[Waitkey][Scroll]Ahora ya sólo es cuestión de[Scroll]tiempo que los poderes ocultos[Scroll]cubran esta tierra[43][Waitkey][Scroll]Cuando estemos armados por[Scroll]fin con el Poder Dorado,[Scroll]el Héroe legendario no podrá[Waitkey][Scroll]hacer nada contra nosotros, la[Scroll]tribu del Mal.[Scroll][60]Disculpa, debo irme![60]Jo, jo![END]
+
+
+[60]Oh![60]Veo que quieres acabe[2]contido aquí mismo![3]Si ese es tu deseo[43][END]
+
+
+[60]Maldición! Tienes madera de[2]héroe, pero no te resultará[3]tan fácil derrotarme[43][Waitkey][Scroll][60]Prepárate para entrar en[Scroll]el Mundo de las Tinieblas![END]
+
+
+[60]Jo, jo! Es increíble que[2]hayas llegado hasta aquí.[3]Estoy muy contento de verte[Waitkey][Scroll]otra vez, pero, créeme,[Scroll]no habrá un tercer encuentro.[Scroll][60]Prepárate para el infierno![END]
+
+
+[60]Jua, jua, jua![2][61]Qué quieres, hombrecito?[3][61]Has venido a pedirme algo?[Waitkey][Scroll]{88}|>[Espacio 2]Quiero unas aletas.[Scroll]{88}{88}Sólo pasaba[43][Choose][END]
+
+
+[60]Jua, jua![60]No creerás que yo[2]regalo las aletas así como así![3]Las vendo a 500 Rupias.[Waitkey][Scroll][61]Qué dices?[Scroll]{88}|>[Espacio 2]Toma las 500 Rupias[Scroll]{88}{88}Otro día[43][Choose][END]
+
+
+[60]Marchando un par de aletas![2][60]Jua, jua[43]! [61]Sabes?[Espacio 2]me has[3]caído bien, te haré un regalito[43][Waitkey][Scroll]Te dejaré usar las corrientes[Scroll]mágicas que unen los ríos y[Scroll]lagos de este mundo.[Waitkey][Scroll]Cuando veas un remolino,[Scroll]nada hacia él.[Waitkey][Scroll][60]Nunca sabes a dónde te[Scroll]puede llevar[43]![Scroll][60]Jua, jua, jua![END]
+
+
+Vuelve cuando tengas más[2]Rupias[43] [60]Ja, ja![3][60]Nos vemos![END]
+
+
+Vale,[60]Ven cuando quieras[2]ver mi cara de besugo[43]![3][60]Adiós![60]Jua, jua, jua![END]
+
+
+[60]Hola, [Name]![2][61]El viejo?[43][60]Ah, te[3]refieres al abuelo del pueblo![Waitkey][Scroll]Vale, te lo diré, pero no le[Scroll]digas a los soldados que te [Scroll]lo he dicho yo.[Waitkey][Scroll]Está escondido en el palacio[Scroll]que está al este del castillo.[Scroll]Te lo señalaré en el mapa[43]{79}t[END]
+
+
+[61]Viste al abuelo? Si se fueran[2]toda esa gente mala,[3]él podría volver al pueblo[43][END]
+
+
+[61]Tú no ser de aquí, verdad?[2][61]También venir tú en busca[3]de Poder Dorado?[Waitkey][Scroll]Siento decir, pero llegar[Scroll]demasiado tarde. Poder Dorado[Scroll]sólo obedecer a primero que[Waitkey][Scroll]tocarlo, y ése ya pedir a él[Scroll]crear este mundo. Este mundo[Scroll]ser reflejo fiel de su corazón.[Waitkey][Scroll]Yo también venir por avaricia,[Scroll]buscar Poder Dorado, pero ver[Scroll]tú qué pasó a mí[43][Waitkey][Scroll]Para restaurar Tierra Dorada,[Scroll]deber venir alguien que sí[Scroll]merecer Poder Dorado,[Waitkey][Scroll]él deber vencer a quien crear[Scroll]este lugar[43] Mientras yo[Scroll]seguir con forma extraña.[Waitkey][Scroll]Pero qué falsa poder ser la[Scroll]mentira[43][Scroll]El Poder Dorado[43][Waitkey][Scroll]La Trifuerza[43][END]
+
+
+{88}[S2] Estanque Misterioso [S2][2][61]Echarás algo al agua?[3][Waitkey][Scroll]Tú decides[43][Scroll]{88}|> Tirar algo[Scroll]{88}{89}No quiero[43][Choose][END]
+
+
+[60]No, no lo hagas![END]
+
+
+[60]No, no lo hagas![END]
+
+
+Te daré esto entonces.[2]No lo tires otra vez.[END]
+
+
+[61]Cuántas Rupias lanzarás?[2]{88}|> {6C}B{6C}A Rupias[3]{88}{89}{6C}D{6C}C Rupias[Choose][END]
+
+
+Eres una persona honrada.[2]Me gustas. Te daré algo[3]importante[43][Waitkey][Scroll]Son las Flechas de Plata.[Scroll]Lánzaselas a Ganon cuando[Scroll]esté paralizado.[Waitkey][Scroll]Ya sé que no tengo la forma[Scroll]de un hada. [60]Es por culpa de[Scroll]Ganon![60]Debes derrotarlo![END]
+
+
+[2]{89}[60]Mucha Suerte![END]
+
+
+[2]{89}Buena Suerte.[END]
+
+
+[2]{89}Poca Suerte.[END]
+
+
+[2]{89}Mala Suerte.[END]
+
+
+Debes saber que hoy tendrás[43][END]
+
+
+[60]Una Pieza de Corazón![2]{88}{88}{88}{88} {52}{53}[END]
+
+
+[60]Una Pieza de Corazón![2]{88}{88}{88}{88} {54}{53}[END]
+
+
+[60]Una Pieza de Corazón![2]{88}{88}{88}{88} {55}{56}[END]
+
+
+[60]Una Pieza de Corazón![2]{88}{88}{88}{88} {57}{58}[3][60]Tienes un Corazón más![END]
+
+
+[60]Consigues un Corazón![2]{88}{88}{88}{88} {57}{58}[3][60]Tienes un Corazón más![END]
+
+
+Yo curaré tus heridas[2]y aliviaré tu fatiga.[3]Respira hondo[43][END]
+
+
+Blom, Blom[43] [61]Eh?[43][2][61]Quién eres tú, Señor Conejo?[3][61]Te gustan las zanahorias?[43][Waitkey][Scroll]Este mundo es igual que el real,[Scroll]salvo que ha sido deformado[Scroll]por el Mal[43][Waitkey][Scroll]Y cualquiera que llegue aquí,[Scroll]cambia de forma para reflejar[Scroll]lo que hay en su corazón.[Waitkey][Scroll]Siempre fui un poco indeciso,[Scroll]creo[43] así que en este mundo[Scroll]me he vuelto una pelota.[Waitkey][Scroll]Pero, si tuvieses la Perla Lunar[Scroll]podrías mantener tu forma[Scroll]original en este mundo.[END]
+
+
+[60]Eh![60]No has cambias de forma![2]No eres un muchacho normal y[3]corriente[43][END]
+
+
+[61]Y tú qué es lo que quieres?[2][61]Qué? [61]Tienes algo que[3]decirme, conejo estúpido?[Waitkey][Scroll]Vine aquí en busca del Poder[Scroll]Dorado y ahora me he vuelto un[Scroll]monstruo y no puedo regresar.[Waitkey][Scroll]Si al menos tuviera la Perla[Scroll]Lunar de la Torre de Hera,[Scroll]podría recuperar mi aspecto.[Waitkey][Scroll]Tengo mis razones para estar[Scroll]enfadado, [61]eh, orejotas?[Scroll][60]Así que vete! [60]Fuera, fuera![END]
+
+
+[60]GUAU![60]No has cambiado de[2]forma! Tienes la Perla Lunar,[3][61]eh?[END]
+
+
+En este peligroso mundo,[2]puede que necesites algo[43][3]Elige lo que quieras[43][END]
+
+
+[61]Puedo ayudarte?[2]Puedes abrir dos cofres por[3]30 Rupias. [61]Por qué no juegas?[Waitkey][Scroll][61]Qué tal?[Scroll]{88}|> Jugaré[Scroll]{88}{89}Más tarde[43][Choose][END]
+
+
+Vale, vuelve otra vez y[2]juega un poco.[3][60]Te estaré esperando![END]
+
+
+[60]Oye, niño![60]Puedes abrir[2]cofres después de pagar![END]
+
+
+No puedes abrir más cofres.[2]El juego ha terminado.[END]
+
+
+Bien, niño. [60]Elige bien![2][60]Buena suerte![END]
+
+
+[61]En qué puedo ayudarte? Elige[2]lo que quieras. (Pulsando [A])[3][60]Y no regatees![END]
+
+
+Eso no lo necesitas[43][2][61]Por qué no eliges otra cosa?[END]
+
+
+{80}

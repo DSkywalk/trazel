@@ -1,0 +1,115 @@
+Muchas gracias.[2]Cuando pierdas tu escudo,[3]regresa aquí otra vez.[END]
+
+
+Muchas gracias.[2]Esta es la Poción Roja.[3]Se usa para recuperar vida.[END]
+
+
+Muchas gracias.[2]Eso son flechas. No puedes[3]utilizarlas sin un arco.[END]
+
+
+Eso son Bombas.[2][61]Sabes cómo se coge una que[3]hayas puesto?[Waitkey][Scroll](Pulsando el Botón [A])[END]
+
+
+Muchas gracias.[2]Eso es una abeja.[3]No sé para qué puede servir.[END]
+
+
+Muchas gracias.[2]Recuperas un corazón.[END]
+
+
+No, no, no[43][2]No puedo venderte eso porque[3]no tienes una botella vacía.[END]
+
+
+[60]No puedes llevar más ahora,[2]pero quizás lo necesites[3]más tarde![END]
+
+
+Nunca imaginé que un niño[2]como tú podría darme tantos[3]problemas. No puedo creer[Waitkey][Scroll]que derrotaras dos veces a mi[Scroll]otro yo, el Mago Negro.[Waitkey][Scroll]Pero nunca te dejaré la[Scroll]Trifuerza.[Espacio 2][Scroll]Te destruiré y conquistaré[Scroll]los mundos de la Luz y de[Waitkey][Scroll]la Oscuridad[43][END]
+
+
+Lo haces bien, chico, pero[43][2][61]Puedes detener la técnica[3]secreta de la Oscuridad?[Waitkey][Scroll][60]En Guardia![END]
+
+
+[60]Eh, niño! [60]No puedes entrar[2]aquí![60]éste es el escondite[3]de unos bandidos![Waitkey][Scroll]Por cierto, dicen que un[Scroll]antiguo miembro de la banda[Scroll]vive ahora en el desierto.[END]
+
+
+[60]Ey, [Name]! Esta cabaña[2]solía ser el escondite unos[3]bandidos.[Waitkey][Scroll][61]Como se llamaba el jefe[43]?[Scroll][60]Ah, sí! Le llamaban Cegatox,[Scroll]y dicen que odiaba la luz.[END]
+
+
+{7A}C{6D}A{6B}CBienvenido, [Name]...[2]Soy{89}la{89}Esencia{89}de[3]la Trifuerza.[Waitkey][Scroll]...{89}...{89}...{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]La Trifuerza cumplirá el deseo[2]que yazca en el espíritu de[3]la persona que la toque.{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]Si una persona con buen[2]corazón la toca, hará realidad[3]sus mejores deseos[43][Waitkey][Scroll]Si una persona con corazón[Scroll]malvado la toca, cumplirá[Scroll]sus pérfidos deseos...{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]Cuanto más fuerte sea el[2]deseo, mayor será la expresión[3]de la Trifuerza de éste.{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]El deseo de Ganon era[2]conquistar el mundo. Su deseo[3]convirtió la Tierra Dorada en[Waitkey][Scroll]el Mundo de las Tinieblas.{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]Ganon estaba aumentando aquí[2]su poder para así conquistar[3]el Mundo de la Luz y hacer[Waitkey][Scroll]realidad su sueño.{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]Pero ahora tú has destruido[2]a Ganon y su Mundo de las[3]Tinieblas desaparecerá.{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]La Trifuerza espera un nuevo[2]maestro.[Espacio 2]Su Poder Dorado está[3]en tus manos...{7A}B[Waitkey][1]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][2]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2][3]{88}{88}{88}{88}{88}{88}{88}{88}{88}{88}[Espacio 2]{7A}C[1]Ahora tócala con un deseo[2]en tu corazón.[3]...[Espacio 2]...[Espacio 2]...[Espacio 2]...[END]
+
+
+[60]Vale! [60]Llévatelo, ladronzuelo![END]
+
+
+[60]Guau![Espacio 2]He visto una chica[2]preciosa junto a la Cascada de[3]los Deseos, donde nace el río.[Waitkey][Scroll][Name], tú también deberías[Scroll]verla, aunque sólo fuera una[Scroll]vez. Seguro que te gustaría.[END]
+
+
+Toma algunas Rupias, pero no[2]le digas a nadie que te[3]las dí yo, [61]vale?[END]
+
+
+Busca la cueva al este del[2]Lago Hylia. Hay cosas extrañas[3]y fascinantes en ella[43][END]
+
+
+Puedes ganar muchas Rupias[2]derrotando a enemigos.[Espacio 2]Ese es[3]el secreto de mi fortuna.[END]
+
+
+[61]Sabías que si matas enemigos[2]congelados con el Martillo[3]consigues Jarras de Magia?[END]
+
+
+Tra la la, busca a[2]Sahasrahla.[3]...[Espacio 2]...[Espacio 2]...[END]
+
+
+[60]Oh, has encontrado a[2]Sahasrahla![3]...[Espacio 2]...[Espacio 2]...[Scroll][60]Buen trabajo la la![END]
+
+
+Lo siento, pero no parece[2]que tengas suficientes Rupias[43][END]
+
+
+Cocococo[43][Espacio 2][61]Eh? [61]Qué?[2][60]Me has convertido en humano![3][60]Incluso puedo hablar![Waitkey][Scroll]Oh, debes ser el que gasta[Scroll]siempre bromas a mis amigos.[Scroll]La Veleta siempre está[Waitkey][Scroll]observando cómo les molestas.[Scroll]Bueno, esta forma humana me[Scroll]incomoda.[Waitkey][Scroll][60]Ahh, quiero ser gallina otra[Scroll]vez![Espacio 2]Cococo[43][END]
+
+
+Si me pagas 20 Rupias te[2]dejaré abrir un cofre. Podrás[3]quedarte con lo que haya.[Waitkey][Scroll][61]Qué me dices?[Scroll]{88}|>[Espacio 2]Abriré uno[Scroll]{88}{88}Me voy[Choose][END]
+
+
+[60]Vale! [60]Abre el cofre que[2]quieras![END]
+
+
+Oh, ya veo[43][Espacio 2]Qué lástima.[2]Pero déjate caer por aquí[3]cuando tengas más Rupias.[END]
+
+
+Por 100 Rupias, te dejaré[2]abrir un cofre y quedarte[3]con lo que haya.[Waitkey][Scroll][61]Qué harás?[Scroll]{88}|>[Espacio 2]Abriré uno[Scroll]{88}{88}Me largo[Choose][END]
+
+
+Hola, [Name].[Espacio 2]Perdona por el[2]jardín,[Espacio 2]tiene hierbajos.[3]Gracias por visitarme.[Waitkey][Scroll]Me alegro de tener a[Scroll]alguien con quien hablar,[Scroll]voy a contarte una historia[43][Waitkey][Scroll]Donde nace el río dicen que[Scroll]viven unos Zora, pero no son[Scroll]fáciles de encontrar.[Waitkey][Scroll]El tesoro de Zora te permite[Scroll]nadar como un pez.[Scroll]Je, je, je[43][Waitkey][Scroll][60]Cómo me gustaría ver eso![END]
+
+
+Todavía no he podido podar[2]el cesped,[Espacio 2]pero gracias por[3]venir[43][Waitkey][Scroll]Hace tiempo, había un chico en[Scroll]el pueblo que, con su ocarina,[Scroll]podía hablar con los animales.[Waitkey][Scroll]Tenía un pájaro que le[Scroll]acompañaba a todas partes,[Scroll]pero se fue a la montaña y[Waitkey][Scroll]nunca más volvió.[END]
+
+
+{6D}A{7A}A|>Continuar desde Casa[2][Espacio 2]Continuar desde el Santuario{72}[END]
+
+
+{6D}A{7A}A|>Continuar desde Casa[2][Espacio 2]Continuar desde el Santuario[3][Espacio 2]Continuar desde la Montaña[Choose2][END]
+
+
+{7A}A|> Seguir Jugando[2]{89}Guardar y Salir{72}[END]
+
+
+[60]Bienvenido al Solar de los[2]Tesoros Ocultos, extranjero![3][61]Quieres probar suerte?[Waitkey][Scroll]Te doy 30 segundos.[Scroll]Cuantos más agujeros hagas,[Scroll]más cosas podrás llevarte.[Waitkey][Scroll]Son 80 Rupias, [61]qué me dices?[Scroll]{88}|> Claro[Scroll]{88}{89}Estoy cansado[43][Choose][END]
+
+
+Necesitarás una Pala.[2]Nada más salir ya podrás[3]excavar. (Pulsa [Y] para cavar)[END]
+
+
+Ya veo[43][Espacio 2]Está bien,[Espacio 2]entonces[2]ahorra unas cuantas rupias y[3]vuelve por aquí.[END]
+
+
+[60]Hey! El juego terminó.[2]Vuelve aquí. [60]Adios![END]
+
+
+[60]Vuelve otra vez![2][60]Te estaré esperando![END]
+
+
+No puedo decirte dónde cavar,[2]pero tampoco es momento[3]de preguntarlo.[Scroll]Vuelve aquí.[Waitkey][Scroll]Lo siento.[END]
+
+
+
