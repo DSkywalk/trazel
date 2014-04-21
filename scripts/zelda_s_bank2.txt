@@ -85,7 +85,7 @@ Lleva los tres Colgantes al[2]Bosque Perdido.[Espacio 2]La Espada[3]Maestra te e
 Gracias, [Name].[2]Tenía la sensación de que[3]te estabas acercando[43][END]
 
 
-[60]Sí, ha sido [Name] quien me[2]ha ayudado a escapar de la[3]mazmorra![Waitkey][Scroll]Cuando estaba prisionera el[Scroll]Brujo dijo, "Debo acabar[Scroll]contigo para abrir el sello".[Waitkey][Scroll][43]{88}[43]{88}[43][Scroll][Name], debes impedir que la[Scroll]tierra de Hyrule caiga en las[Waitkey][Scroll]garras del Brujo.[Waitkey][Scroll]Si rompe el sello de los Siete[Scroll]Sabios, el Mal se adueñará de[Scroll]nuestra tierra.[Waitkey][Scroll]Antes de que ocurra[43][Scroll]Antes de que sea tarde[43][Waitkey][Scroll][60]Acaba con el Brujo antes de[Scroll]que destruya todo Hyrule![Scroll][60]Puedes hacerlo, [Name]![END]
+[60]Sí, ha sido [Name] quien me[2]ha ayudado a escapar de la[3]mazmorra![Waitkey][Scroll]Cuando estaba prisionera el[Scroll]Brujo dijo, "Debo acabar[Scroll]contigo para abrir el sello".[Waitkey][Scroll][43]{88}[43]{88}[43][Scroll][Name], debes impedir que la[Scroll]tierra de Hyrule caiga en las[Waitkey][Scroll]garras del Brujo.[Waitkey][Scroll]Si rompe el sello de los Siete[Scroll]Sabios, el Mal se adueñará de[Scroll]nuestra tierra.[Waitkey][Scroll]Antes de que ocurra[43][Waitkey][Scroll]Antes de que sea tarde[43][Waitkey][Scroll][60]Acaba con el Brujo antes de[Scroll]que destruya todo Hyrule![Scroll][60]Puedes hacerlo, [Name]![END]
 
 
 [60][Name], ten mucho cuidado![2][60]Sé que puedes salvar Hyrule![END]
@@ -808,10 +808,10 @@ Vale, tráeme ese cofre.[2]En serio, no se lo digas[3]a nadie.[END]
 {88}{88}[Espacio 2][S2][S3][S2][S3][S2][S3][S2][S3][S2][S3][S2][Espacio 2][S2][S2][S3][2]{88}{88}[S2][S1] [S3][S3][S1][S2][S1] [S3][S2][S1][S3] [S2][S1][S3][S2][S1][3]{88}{88}{88}[S2][S3][S2][S3][S2][Espacio 2][S3][S2][S1][S2][S1][END]
 
 
-"Alza la Espada Maestra y[2]recibirás el poder de la Helada."[END]
+"Aquel que alce Maestra Espada[2]obtendrá el poder de la Helada"[END]
 
 
-"Alza la Espada Maestra aquí[2]para que te sea concedido [3]el poder de la Llamarada."[END]
+"Alce su Espada sin rubor[2]para que le sea concedido[3]el poder del Fulgor."[END]
 
 
 [60]Eh![60]Te maldigo por romper[2]mi profundo sueño![43] Ejem,[3]quiero decir, [60]muchas gracias![Waitkey][Scroll][60]No!, quiero decir[43][Scroll][60]Pagarás por esto, en guardia![Scroll]Vamos, si te apetece[43][END]
