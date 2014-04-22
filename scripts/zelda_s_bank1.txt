@@ -49,7 +49,7 @@ Toma algunas Rupias, pero no[2]le digas a nadie que te[3]las dí yo, [61]vale?[E
 Busca la cueva al este del[2]Lago Hylia. Hay cosas extrañas[3]y fascinantes en ella[43][END]
 
 
-Puedes ganar muchas Rupias[2]derrotando a enemigos.[Espacio 2]Ese es[3]el secreto de mi fortuna.[END]
+Puedes ganar muchas Rupias[2]derrotando a enemigos. Ese[3]es el secreto de mi fortuna.[END]
 
 
 [61]Sabías que si matas enemigos[2]congelados con el Martillo[3]consigues Jarras de Magia?[END]

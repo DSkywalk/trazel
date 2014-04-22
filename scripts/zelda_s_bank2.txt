@@ -7,7 +7,7 @@
 {7A}A[2]{88}[Espacio 2][3]{88}|>[Choose][END]
 
 
-{7A}ASalvar y continuar[2]Salvar y quitar[3]Continuar sin salvar[END]
+{7A}ASalvar y Continuar[2]Salvar y Quitar[3]Continuar sin salvar[END]
 
 
 {7A}A0  {6C}A. 1  {6C}B[2]2  {6C}C. 3  {6C}D[END]
@@ -298,7 +298,7 @@ La Seta que acabas de recoger[2]tiene el dulce olor de la fruta[3]podrida[43][Wa
 [60]Es el Medallón de la Helada![2]Sus poderes mágicos controlan[3]la atmósfera y el viento polar.[Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
 
 
-[60]El Medallón de la Llamarada![2][60]Su magia envolverá la tierra[3]en un fuego abrasador![Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
+[60]El Medallón del Fulgor![2][60]Su magia envolverá la tierra[3]de una llameante explosión![Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
 
 
 [60]Es el Medallón del Temblor![2]Su magia hace temblar la tierra[3]como un auténtico terremoto.[Waitkey][Scroll]Pero ojo al Indicador de magia.[END]
@@ -418,7 +418,7 @@ Elige un objeto usando[2]el pad y arrójalo con el[3]Botón [Y].{69}[END]
 Hola. [61]Has tirado esto?[2]{88}|> Sí[3]{88}{89}[61]Yo[43]?[Choose][END]
 
 
-Veo honradez en ti[43][2]A cambio, te daré algo mejor.[END]
+Pareces una persona honrada[43][2]Me caes bien.[3][60]Te daré algo aún mejor![END]
 
 
 [61]Seguro que no es tuyo?[2]{88}|> En serio, no es mío[3]{88}{89}La verdad es que sí[43][Choose][END]
@@ -643,10 +643,10 @@ He vendido todas mis[2]botellas[43] Vuelve más tarde[43][END]
 [60]Oye![60]Dicen que comer[2]pescado te hace listo![3][60]Tienes que darme ese pez,[Waitkey][Scroll][61]Vale?[60]Hecho![END]
 
 
-[60]Eh, [Name]! Parece que[2]tienes problemas, pero esto[3]es todo lo que tengo.[END]
+[60]Vaya, [Name]! Parece que[2]estás en un buen aprieto, pero[3]yo sólo puedo darte esto.[END]
 
 
-[60]Oye![2][60]Bienvenido![3][Waitkey][Scroll][60]Pídenos lo que sea![Scroll]{88}|> Forjad mi espada[Scroll]{88}{89}Sólo miraba[Choose][END]
+[60]Hola![2][60]Bienvenido![3][Waitkey][Scroll][60]Estamos a tu disposición![Scroll]{88}|> Forjad mi espada[Scroll]{88}{89}Sólo miraba[Choose][END]
 
 
 [60]Te haré un gran descuento![2]{88}|>Forjar por[43] 10 Rupias[3]{88}[Espacio 2]Espera[43][Choose][END]
@@ -670,7 +670,7 @@ Vuelve cuando quieras. [2][60]Estamos para trabajar![END]
 Podríamos forjar tu espada si[2]mi compañero perdido volviese,[3]pero ahora no puedo hacer[Waitkey][Scroll]nada por ti.[END]
 
 
-[60]Oh![60]Otra vez días felices![2][60]Encontraste a mi compañero![3]Estamos muy felices[43][Waitkey][Scroll][60]Ahora podemos forjar tu[Scroll]espada perfectamente![END]
+[60]Oh![60]Que ven mis ojos![2][60]Encontraste a mi compañero![3]Estamos muy felices[43][Waitkey][Scroll][60]Ahora podremos forjar tu[Scroll]espada como hacíamos antaño![END]
 
 
 Conejo[43] conejito[43][2][60]Tu cuerpo no ha cambiado![3]No eres un chico normal.[Waitkey][Scroll]Solía vivir en el pueblo[Scroll]Kakariko. Me pregunto qué hará[Scroll]mi compañero sin mí[43][Waitkey][Scroll]Quiero pedirte un favor.[Scroll][60]Llévame con mi compañero![Scroll][60]Por favor![END]
@@ -703,25 +703,25 @@ Entonces, te dejaré mi pala.[2][60]Suerte![END]
 {6D}B[60]Abracadabra![2]Encontrarás al anciano[3]Sahasrahla[43][END]
 
 
-{6D}B[60]Abracadabra, Alakazam![2]El Libro de Mudora abrirá[3]algo en el desierto[43][END]
+{6D}B[60]Abracadabra, pata de cabra![43][2]El Libro de Mudora abrirá[3]algo en el desierto[43][END]
 
 
 {6D}B[60]Abracadabra![2]Te veo en el desierto, hablando[3]con un descendiente del linaje[Waitkey][Scroll]de los Siete Sabios.[END]
 
 
-{6D}B[60]Abracadabra, Alakazam![2]En la Tienda de Pociones verás[3]a un amante de las setas[43][END]
+{6D}B[60]Abracadabra, pata de cabra![43][2]En la Tienda de Pociones verás[3]a un amante de las setas[43][END]
 
 
 {6D}B[60]Abracadabra![2]Te veo remontando el río para[3]hablar con un gran Zora.[END]
 
 
-{6D}B[60]Abracadabra, Alakazam![2]El héroe verdadero encontrará[3]la Perla Lunar en la Montaña[43][END]
+{6D}B[60]Abracadabra, pata de cabra![43][2]El héroe verdadero encontrará[3]la Perla Lunar en la Montaña[43][END]
 
 
 {6D}B[60]Abracadabra![2]Ni siquiera la Espada[3]Maestra puede herir al Brujo[43][END]
 
 
-{6D}B[60]Abracadabra, Alakazam![2]El verdadero Héroe saltará al[3]pozo abierto junto a la fragua.[END]
+{6D}B[60]Abracadabra, pata de cabra![43][2]El verdadero Héroe saltará al[3]pozo abierto junto a la fragua.[END]
 
 
 {6D}BBueno, debo reconocer que hoy[2]no estoy muy fino.[3]Pero vuelve en otra ocasión[43][END]
@@ -751,13 +751,13 @@ Entonces, te dejaré mi pala.[2][60]Suerte![END]
 {6D}B[60]Abracadabra![2]Comprarás un nuevo tipo de[3]bombas en la Tienda de las Bombas[43][END]
 
 
-{6D}B[60]Abracadabra, Alakazam![2]Busca dentro de la pirámide del[3]Mundo de las Tinieblas[43][END]
+{6D}B[60]Abracadabra, pata de cabra![43][2]Busca dentro de la pirámide del[3]Mundo de las Tinieblas[43][END]
 
 
 {6D}B[60]Abracadabra![2]Una barrera te impedirá[3]entrar a la torre de Ganon.[END]
 
 
-{6D}B[60]Abracadabra, Alakazam![2]Necesitarás Flechas de Plata[3]para derrotar a Ganon.[END]
+{6D}B[60]Abracadabra, pata de cabra![43][2]Necesitarás Flechas de Plata[3]para derrotar a Ganon.[END]
 
 
 [60]Eh![60]Si me das 20 Rupias, te[2]contaré una historia![3][Waitkey][Scroll][61]Qué me dices?[Scroll]{88}|> De acuerdo[Scroll]{88}{89}No me interesa[Choose][END]
@@ -769,7 +769,7 @@ Entonces, te dejaré mi pala.[2][60]Suerte![END]
 [60]Je, je! Ya veo. Lo siento,[2]pero no puedo perder tiempo[3]hablando con pobretones[43][END]
 
 
-Je, je, gracias. Si te digo la[2]verdad, solía ser un ladrón[3]en el Mundo de la Luz[43][Waitkey][Scroll]Algunos seguidores míos se[Scroll]escondieron porque tenían[Scroll]miedo de que les atraparan.[Waitkey][Scroll]Uno de ellos era un maestro[Scroll]cerrajero, pero ahora esconde[Scroll]su verdadera personalidad[43][Waitkey][Scroll][60]Ahora aparenta ser un hombre[Scroll]extraño de mediana edad![Scroll][60]Ja, ja, ja![END]
+Je, je, gracias. Si te digo la[2]verdad, solía ser un ladrón[3]en el Mundo de la Luz[43][Waitkey][Scroll]Algunos seguidores míos se[Scroll]escondieron porque tenían[Scroll]miedo de que les atraparan.[Waitkey][Scroll]Uno de ellos era un maestro[Scroll]cerrajero, pero ahora esconde[Scroll]su verdadera personalidad[43][Waitkey][Scroll][60]Aparenta ser un tranquilo[Scroll]hombre de lo más normal![Scroll][60]Ja, ja, ja![END]
 
 
 [60]Ja![Espacio 2]Gracias. Si te digo la[2]verdad, me encontré con una[3]belleza dentro de la pirámide,[Waitkey][Scroll]pero alguien ha sellado la[Scroll]puerta. Dicen que una bomba[Scroll]normal no servirá[43][END]
@@ -934,7 +934,7 @@ Hola, [Name].[2][61]Has hablado con mi hermano?[3]Seguirá enfadado[43][END]
 {7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Ganon nos capturó porque su[Scroll]poder solo no podía romper[Scroll]el sello de los Siete Sabios.[Waitkey][Scroll]Así, usando al Brujo Agahnim[Scroll]como un peón más, nos llevó[Scroll]al Mundo de las Tinieblas.[Waitkey][Scroll]Después de romper el sello[Scroll]con nuestros poderes, nos[Scroll]encerró en estos cristales y[Waitkey][Scroll]nos entregó a sus monstruos[Scroll]guardianes. Pero Ganon nunca[Scroll]pensó que llegarías tan lejos.[Waitkey][Scroll]Ahora, la Princesa te espera[Scroll]en la Roca de la Tortuga.[Scroll][60]Rápido, ve a rescatarla![END]
 
 
-{7A}C{6D}B{6B}CMuchas gracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]legendario.[Waitkey][Scroll]Tuve esa sensación desde la[Scroll]primera vez que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon está esperando dentro[Scroll]de su torre para cruzar el[Scroll]portal que conecta los dos[Waitkey][Scroll]mundos. Si Ganon entra en[Scroll]el Mundo de la Luz, nadie[Scroll]podrá detenerle.[Waitkey][Scroll]Pero si está en un lugar de[Scroll]este mundo, puedes encontrarlo[Scroll]allá donde él vaya.[Waitkey][Scroll][60]Ahora ve a la torre de Ganon![Scroll]Combinaremos nuestros poderes[Scroll]para romper la barrera.[Waitkey][Scroll]Devuelve la paz a Hyrule.[Scroll]No nos falles[43][Scroll][43][Espacio 2][43][Espacio 2][43]{79}t[END]
+{7A}C{6D}B{6B}CGracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]del que hablan las leyendas.[Waitkey][Scroll]Tuve esa sensación desde la[Scroll]primera vez que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon aguarda dentro de su[Scroll]torre para cruzar el portal[Scroll]que conecta los dos mundos.[Waitkey][Scroll]Si Ganon llegara a entrar en[Scroll]el Mundo de la Luz, nadie[Scroll]podría entonces detenerle.[Waitkey][Scroll]Pero mientras se encuentre en[Scroll]este mundo, podrías derrotarlo[Scroll]allá donde se refugie.[Waitkey][Scroll][60]Ahora ve a la torre de Ganon![Scroll]Combinaremos nuestros poderes[Scroll]para romper la barrera.[Waitkey][Scroll]Devuelve la paz a Hyrule.[Scroll]No nos falles[43][Scroll][43][Espacio 2][43][Espacio 2][43]{79}t[END]
 
 
 {7A}C{6D}B{6B}CQue la senda del Héroe te[2]guíe a la Trifuerza[43][END]
@@ -946,7 +946,7 @@ Hola, [Name].[2][61]Has hablado con mi hermano?[3]Seguirá enfadado[43][END]
 [Name], vamos a romper la[2]barrera de la Torre de Ganon.[END]
 
 
-{7A}C{6D}B{6B}CMuchas gracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]legendario.[Waitkey][Scroll]Tuve esa sensación la primera vez[Scroll]que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon está esperando dentro[Scroll]de su torre para cruzar el[Scroll]portal que conecta los dos[Waitkey][Scroll]mundos. Si Ganon entra en[Scroll]el Mundo de la Luz, nadie[Scroll]podrá detenerle.[Waitkey][Scroll]Pero si está en un lugar de[Scroll]este mundo, puedes encontrarlo[Scroll]allá donde él vaya.[Waitkey][Scroll]Todavía quedan doncellas por[Scroll]rescatar. Cuando rescates[Scroll]a todas, ve a la Torre de Ganon.[Waitkey][Scroll]Nosotras podemos romper la[Scroll]barrera de su torre.[Scroll][Name], debes salvar Hyrule...[Waitkey][Scroll]Sé que tú puedes hacerlo[43][Scroll][END]
+{7A}C{6D}B{6B}CGracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]del que hablan las leyendas.[Waitkey][Scroll]Tuve esa sensación desde la[Scroll]primera vez que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon aguarda dentro de su[Scroll]torre para cruzar el portal[Scroll]que conecta los dos mundos.[Waitkey][Scroll]Si Ganon llegara a entrar en[Scroll]el Mundo de la Luz, nadie[Scroll]podría entonces detenerle.[Waitkey][Scroll]Pero mientras se encuentre en[Scroll]este mundo, podrías derrotarlo[Scroll]allá donde se refugie.[Waitkey][Scroll]Todavía quedan doncellas por[Scroll]rescatar. Cuando rescates a[Scroll]todas, ve a la Torre de Ganon.[Waitkey][Scroll][60]Nosotras podemos romper la[Scroll]barrera que ha creado Ganon[Scroll]para proteger su torre![Waitkey][Scroll][Name][43] debes traer de nuevo[Scroll]la paz a nuestra tierra[43][END]
 
 
 Ajá[43] [Name][43][2]Te estabamos esperando[3][60]Zelda quería que vieras cómo[Waitkey][Scroll]desaparece ante tus ojos![Scroll][60]Contempla los últimos[Scroll]momentos de la Princesa![END]
@@ -988,7 +988,7 @@ Vale,[60]Ven cuando quieras[2]ver mi cara de besugo[43]![3][60]Adiós![60]Jua, j
 [61]Tú no ser de aquí, verdad?[2][61]También venir tú en busca[3]de Poder Dorado?[Waitkey][Scroll]Siento decir, pero llegar[Scroll]demasiado tarde. Poder Dorado[Scroll]sólo obedecer a primero que[Waitkey][Scroll]tocarlo, y ése ya pedir a él[Scroll]crear este mundo. Este mundo[Scroll]ser reflejo fiel de su corazón.[Waitkey][Scroll]Yo también venir por avaricia,[Scroll]buscar Poder Dorado, pero ver[Scroll]tú qué pasó a mí[43][Waitkey][Scroll]Para restaurar Tierra Dorada,[Scroll]deber venir alguien que sí[Scroll]merecer Poder Dorado,[Waitkey][Scroll]él deber vencer a quien crear[Scroll]este lugar[43] Mientras yo[Scroll]seguir con forma extraña.[Waitkey][Scroll]Pero qué falsa poder ser la[Scroll]mentira[43][Scroll]El Poder Dorado[43][Waitkey][Scroll]La Trifuerza[43][END]
 
 
-{88}[S2] Estanque Misterioso [S2][2][61]Echarás algo al agua?[3][Waitkey][Scroll]Tú decides[43][Scroll]{88}|> Tirar algo[Scroll]{88}{89}No quiero[43][Choose][END]
+{88}[S2] Estanque Misterioso [S2][2][61]Deseas echar un objeto tuyo[3]al agua? [Waitkey][Scroll]Tú decides[43][Scroll]{88}|> Tirar algo[Scroll]{88}{89}No quiero[43][Choose][END]
 
 
 [60]No, no lo hagas![END]
@@ -1003,7 +1003,7 @@ Te daré esto entonces.[2]No lo tires otra vez.[END]
 [61]Cuántas Rupias lanzarás?[2]{88}|> {6C}B{6C}A Rupias[3]{88}{89}{6C}D{6C}C Rupias[Choose][END]
 
 
-Eres una persona honrada.[2]Me gustas. Te daré algo[3]importante[43][Waitkey][Scroll]Son las Flechas de Plata.[Scroll]Lánzaselas a Ganon cuando[Scroll]esté paralizado.[Waitkey][Scroll]Ya sé que no tengo la forma[Scroll]de un hada. [60]Es por culpa de[Scroll]Ganon![60]Debes derrotarlo![END]
+Eres una persona honrada.[2]Me gustas. Te daré algo[3]muy valioso[43][Waitkey][Scroll]Son las Flechas de Plata.[Scroll]Lánzaselas a Ganon cuando[Scroll]esté paralizado.[Waitkey][Scroll]Ya sé que no tengo la forma[Scroll]de un hada. [60]Es por culpa de[Scroll]Ganon![60]Debes derrotarlo![END]
 
 
 [2]{89}[60]Mucha Suerte![END]

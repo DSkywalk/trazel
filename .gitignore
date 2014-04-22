@@ -55,4 +55,6 @@ docs/_build/
 # rom
 *.smc
 *.sfc
+*.bak
+*.tmp
 *.my
