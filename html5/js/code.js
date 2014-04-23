@@ -192,7 +192,7 @@ function canvasApp(){
             case 241: CharInfo.Index = 71; break; //ñ
             
             // simbolos hylianos
-            case 219: CharInfo.Index = 22; CharInfo.sX = 14; break;  // Hylia - 1 (la W)
+            case 219: CharInfo.Index = 22; CharInfo.sX = 16; break;  // Hylia - 1 (la W)
             case 220: CharInfo.Index = 64; break;  // Hylia - 2 (el -)
             case 217: CharInfo.Index = 90; CharInfo.sX = 16; break; // Hylia - 3 ( la <| )
 
