@@ -7,7 +7,7 @@
 {7A}A[2]{88}[Espacio 2][3]{88}|>[Choose][END]
 
 
-{7A}ASalvar y Continuar[2]Salvar y Quitar[3]Continuar sin salvar[END]
+{7A}AGuardar y Continuar[2]Guardar y Salir[3]Continuar sin Guardar[END]
 
 
 {7A}A0  {6C}A. 1  {6C}B[2]2  {6C}C. 3  {6C}D[END]
@@ -298,7 +298,7 @@ La Seta que acabas de recoger[2]tiene el dulce olor de la fruta[3]podrida[43][Wa
 [60]Es el Medallón de la Helada![2]Sus poderes mágicos controlan[3]la atmósfera y el viento polar.[Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
 
 
-[60]El Medallón del Fulgor![2][60]Su magia envolverá la tierra[3]de una llameante explosión![Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
+[60]El Medallón de la Llamarada![2][60]Su magia envolverá la tierra[3]de una llameante explosión![Waitkey][Scroll]Pero ojo al Indicador de Magia.[END]
 
 
 [60]Es el Medallón del Temblor![2]Su magia hace temblar la tierra[3]como un auténtico terremoto.[Waitkey][Scroll]Pero ojo al Indicador de magia.[END]
@@ -562,7 +562,7 @@ Después de que Agahnim[2]lo conquistara todo, empezó a[3]hacer cosas muy extra
 {6B}C[Name],[Espacio 2]soy yo, Sahasrahla.[2]Debes encender las cuatro[3]antorchas para continuar.[END]
 
 
-{88}{88}[Espacio 2][S1][S3][S1][S2][Espacio 2][S1][S3][S1][S2][S1][S2][S1][2]{88}{88}[Espacio 2][Espacio 2][S1][S2][S1][S3][S1][S3][S1] [S2][S1][S3][3]{88}{88}[Espacio 2][S1][S2][S1][Espacio 2][S3][S1][S3][S1][S2][S1][S3][S1][END]
+{88}[S1][S2][S1][S3][S1][S2][S1][S3] [S1][S2][S2][S2][S2] [S1][S3][S1][S2][S1][S3][2]{88}{88} [S1][S3][S1][S1][S2][Espacio 2][S1][S3][S1][S2][S1][S3][3]{88}[Espacio 2][S1][S2][S1][Espacio 2][S3][S1][S1][S2][S1][S3][Espacio 2][S3][S2][S1][S1][S3][END]
 
 
 "Para seguir tu camino,[2]pide aquí tu deseo[3]y te será concedido."[END]
@@ -805,13 +805,13 @@ Recuerda la promesa[43][2]No decir nada.[END]
 Vale, tráeme ese cofre.[2]En serio, no se lo digas[3]a nadie.[END]
 
 
-{88}{88}[Espacio 2][S2][S3][S2][S3][S2][S3][S2][S3][S2][S3][S2][Espacio 2][S2][S2][S3][2]{88}{88}[S2][S1] [S3][S3][S1][S2][S1] [S3][S2][S1][S3] [S2][S1][S3][S2][S1][3]{88}{88}{88}[S2][S3][S2][S3][S2][Espacio 2][S3][S2][S1][S2][S1][END]
+{88}{89}[Espacio 2][S2][S3][S2][S3][S2][S3][S2][S3][S2][S3][S2][Espacio 2][S2][S2][S3][2]{88}[Espacio 2][S2][S1] [S3][S3][S1][S2][S1] [S3][S2][S1][S3] [S2][S1][S3][S2][S1][3]{88}{88}{89}[S2][S3][S2][S3][S2][Espacio 2][S3][S2][S1][S2][S1][END]
 
 
 "Aquel que alce Maestra Espada[2]obtendrá el poder de la Helada"[END]
 
 
-"Alce su Espada sin rubor[2]para que le sea concedido[3]el poder del Fulgor."[END]
+"Alce su honorable Espada[2]para que le sea concedido[3]el poder de la Llamarada."[END]
 
 
 [60]Eh![60]Te maldigo por romper[2]mi profundo sueño![43] Ejem,[3]quiero decir, [60]muchas gracias![Waitkey][Scroll][60]No!, quiero decir[43][Scroll][60]Pagarás por esto, en guardia![Scroll]Vamos, si te apetece[43][END]
@@ -901,7 +901,7 @@ No tengo más regalos para ti.[2][60]Toma esto, gusano![END]
 [60]Eh, [Name]! Una misteriosa[2]niebla cubre el bosque.[3][60]Ten cuidado![END]
 
 
-Quizás sea mi imaginación,[2]pero noto algo extraño en este[3]el árbol mientras lo cortamos[43][END]
+Quizás sea mi imaginación,[2]pero noto algo extraño en este[3]árbol mientras lo cortamos[43][END]
 
 
 [60]Eh, la niebla del bosque[2]se está desvaneciendo![3][60]Gracias![60]Podemos volver a ir![END]
@@ -919,7 +919,7 @@ Hola, [Name].[2][61]Has hablado con mi hermano?[3]Seguirá enfadado[43][END]
 {7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll]Este mundo era antes la Tierra[Scroll]Dorada, donde se ocultaba la[Scroll]Trifuerza.[Waitkey][Scroll]Pero Ganon, el rey de los[Scroll]ladrones, deseó cambiarlo y[Scroll]lo cubrió de tinieblas[43][Waitkey][Scroll]Ahora está acumulando poder[Scroll]porque quiere conquistar[Scroll]nuestro Mundo de la Luz.[Waitkey][Scroll]Pretende usar el poder de los[Scroll]Siete Sabios que ahora reside[Scroll]en nosotras, las doncellas,[Waitkey][Scroll]para terminar de abrir[Scroll]el portal que comunica los dos[Scroll]mundos en el Castillo de Hyrule.[Waitkey][Scroll]Pero aún estamos a tiempo, la[Scroll]puerta no está abierta del[Scroll]todo[43][Waitkey][Scroll]Las Siete Doncellas unidas[Scroll]podemos romper la barrera de la[Scroll]guarida de Ganon.[Waitkey][Scroll]Marcaré en tu mapa los lugares[Scroll]donde mantienen prisioneras a[Scroll]las demás doncellas.[Waitkey][Scroll]Y cuando acabes con Ganon[Scroll][60]yo recobraré por fin mi[Scroll]aspecto normal![43]{79}t[END]
 
 
-{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]La Trifuerza cumplirá el deseo[Scroll]de la persona que la toque[Scroll]mientras siga viviendo[43][Waitkey][Scroll]Por eso estaba oculta en la[Scroll]Tierra Dorada. Sólo unos pocos[Scroll]elegidos conocían su paredero.[Waitkey][Scroll]Desgraciadamente, con el[Scroll]tiempo, los que lo conocían[Scroll]fueron desapareciendo.[Waitkey][Scroll]Ganondorf, encontró la Tierra[Scroll]Dorada, pero no sabía cómo[Scroll]regresar al Mundo de la Luz[43][Waitkey][Scroll]Y no olvides que ahora posees[Scroll]poderes mágicos que sólo los[Scroll]Héroes como tú saben usar.[Waitkey][Scroll]Existen más puntos mágicos[Scroll]como el que viste en la[Scroll]Montaña de la Muerte.[Waitkey][Scroll]Se usan para ir de un mundo a[Scroll]otro y hallar a los demonios[Scroll]del Mundo de las Tinieblas.[Waitkey][Scroll]Sólo tú puedes acabar con[Scroll]Ganondorf, que en realidad no[Scroll]es otro que[43][Waitkey][Scroll][60]Ganon, Rey de las Tinieblas![END]
+{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]La Trifuerza cumplirá el deseo[Scroll]de la persona que la toque[Scroll]mientras siga viviendo[43][Waitkey][Scroll]Por eso estaba oculta en la[Scroll]Tierra Dorada. Sólo unos pocos[Scroll]elegidos conocían su paradero.[Waitkey][Scroll]Desgraciadamente, con el[Scroll]tiempo, los que lo conocían[Scroll]fueron desapareciendo.[Waitkey][Scroll]Ganondorf, encontró la Tierra[Scroll]Dorada, pero no sabía cómo[Scroll]regresar al Mundo de la Luz[43][Waitkey][Scroll]Y no olvides que ahora posees[Scroll]poderes mágicos que sólo los[Scroll]Héroes como tú saben usar.[Waitkey][Scroll]Existen más puntos mágicos[Scroll]como el que viste en la[Scroll]Montaña de la Muerte.[Waitkey][Scroll]Se usan para ir de un mundo a[Scroll]otro y hallar a los demonios[Scroll]del Mundo de las Tinieblas.[Waitkey][Scroll]Sólo tú puedes acabar con[Scroll]Ganondorf, que en realidad no[Scroll]es otro que[43][Waitkey][Scroll][60]Ganon, Rey de las Tinieblas![END]
 
 
 {7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll][61]Conoces la profecía del Gran[Scroll]Cataclismo?[Scroll]Dice así[43][Waitkey][Scroll]Cuando el del corazón malvado[Scroll]sea dueño de la Trifuerza,[Scroll]un Héroe surgirá[43][Waitkey][Scroll][43]y se deberá enfrentar solo[Scroll]al que desencadenó el[Scroll]Gran Cataclismo.[Waitkey][Scroll]Si el Mal venciera al Héroe,[Scroll]entonces nada ni nadie[Scroll]estaría a salvo de su reinado.[Waitkey][Scroll]Sólo un descendiente de los[Scroll]protectores de la Casa de Hylia[Scroll]puede ser ese Héroe[43][Waitkey][Scroll]Y por tus venas corre esa[Scroll]sangre, [60]la sangre de los[Scroll]Caballeros de Hyrule![Waitkey][Scroll][60]Salva a la princesa Zelda![END]
@@ -955,7 +955,7 @@ Ajá[43] [Name][43][2]Te estabamos esperando[3][60]Zelda quería que vieras cóm
 Jo, jo, jo! Con este último[2]acto malvado, he roto el sello[3]de los Siete Sabios.[Waitkey][Scroll]Ahora ya sólo es cuestión de[Scroll]tiempo que los poderes ocultos[Scroll]cubran esta tierra[43][Waitkey][Scroll]Cuando estemos armados por[Scroll]fin con el Poder Dorado,[Scroll]el Héroe legendario no podrá[Waitkey][Scroll]hacer nada contra nosotros, la[Scroll]tribu del Mal.[Scroll][60]Disculpa, debo irme![60]Jo, jo![END]
 
 
-[60]Oh![60]Veo que quieres acabe[2]contido aquí mismo![3]Si ese es tu deseo[43][END]
+[60]Oh![60]Veo que quieres que[2]acabe contigo aquí mismo![3]Si ese es tu deseo[43][END]
 
 
 [60]Maldición! Tienes madera de[2]héroe, pero no te resultará[3]tan fácil derrotarme[43][Waitkey][Scroll][60]Prepárate para entrar en[Scroll]el Mundo de las Tinieblas![END]
@@ -1030,10 +1030,10 @@ Debes saber que hoy tendrás[43][END]
 [60]Una Pieza de Corazón![2]{88}{88}{88}{88} {55}{56}[END]
 
 
-[60]Una Pieza de Corazón![2]{88}{88}{88}{88} {57}{58}[3][60]Tienes un Corazón más![END]
+[60]Una Pieza de Corazón![2]{88}{88}{88}{88} {55}{58}[3][60]Tienes un Corazón más![END]
 
 
-[60]Consigues un Corazón![2]{88}{88}{88}{88} {57}{58}[3][60]Tienes un Corazón más![END]
+[60]Consigues un Corazón![2]{88}{88}{88}{88} {55}{58}[3][60]Tienes un Corazón más![END]
 
 
 Yo curaré tus heridas[2]y aliviaré tu fatiga.[3]Respira hondo[43][END]
