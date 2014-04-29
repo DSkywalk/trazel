@@ -61,7 +61,7 @@ Pareces fuerte para ser un[2]niño.[Espacio 2][61]Cuánto peso levantas?[3](Puls
 Puedes hallar cosas de valor en[2]los cofres.[Espacio 2](Pulsa el botón [A][3]enfrente de uno para abrirlo).[END]
 
 
-Modestia aparte [61]no te parece[2]que los soldados somos gente[3]gente realmente lista?[Waitkey][Scroll]No lo digo por que tú hayas[Scroll]salido en una noche así solo[Scroll]para hablar con nosotros[43][END]
+Modestia aparte, [61]no te[2]parece que los soldados somos[3]gente realmente inteligente?[Waitkey][Scroll]No lo digo por que tú hayas[Scroll]salido en una noche así solo[Scroll]para hablar con nosotros[43][END]
 
 
 Habla con el anciano del pueblo[2]para conseguir la[3]Espada Maestra.[END]
@@ -100,7 +100,7 @@ Gracias, [Name].[2]Tenía la sensación de que[3]te estabas acercando[43][END]
 Hay un pasadizo secreto en[2]la sala del trono que lleva al[3]Santuario.[Espacio 2]Allí vive un[Waitkey][Scroll]sacerdote que nos ayudará.[END]
 
 
-Ese escudo de armas se puede[2]mover. [61]Tienes algo de luz?[3]Allí dentro está muy oscuro y[Waitkey][Scroll]no se ve nada. [61]Estás listo?[Scroll][60]Ayúdame a empujarlo por la[Scroll]izquierda![END]
+Ese escudo de armas lo podemos[2]empujar entre los dos.[3][61]Tienes algo de luz?[Waitkey][Scroll]Abajo la necesitaremos, está[Scroll]muy oscuro y no se ve nada[43][Waitkey][Scroll]Cuando estés listo,[Scroll][60]Ayúdame a empujarlo por la[Scroll]izquierda![END]
 
 
 Debes tirar de la palanca para[2]abrir la puerta.[Espacio 2](Presiona [A][3]mientras pulsas {4E} en el pad).[END]
@@ -112,7 +112,7 @@ Bien, salgamos antes de que se[2]entere el Brujo.[Espacio 2]Conozco un[3]pasadiz
 [Name], presta atención.[Espacio 2]El[2]Brujo controla con su magia[3]a los soldados del castillo.[Waitkey][Scroll]Temo lo peor por[Scroll]mi padre[43][Scroll][60]El Brujo es un ser demoníaco[Waitkey][Scroll]con grandes poderes mágicos![Scroll][43]{89}[43]{89}[43][Waitkey][Scroll][61]Lo entiendes?[Scroll]{88}|> Sí[Scroll]{88}{89}No del todo[Choose][END]
 
 
-Sigue las marcas que el anciano[2]hace en tu mapa.[Espacio 2]Si no sabes[3]qué hacer,[Espacio 2]visita al adivino,[Waitkey][Scroll]quizás pueda ayudarte[43][END]
+Sigue las marcas que el anciano[2]hace en tu mapa. Si no sabes[3]qué hacer, visita al adivino.[Waitkey][Scroll]Quizá pueda ayudarte[43][END]
 
 
 [Name], eres genial![2][60]Como pensaba, tienes el poder[3]del Héroe en ti![Waitkey][Scroll]Ahora,[Espacio 2]ve a por la Espada[Scroll]Maestra.[Espacio 2]Estoy segura de que[Scroll]vencerás al malvado Brujo![END]
@@ -160,7 +160,7 @@ Otros parientes de los Sabios[2]se esconden de los seguidores[3]del malvado Bruj
 {6B}C{7A}D[Name], soy yo, Sahasrahla,[2]y hablo contigo gracias a mis[3]poderes telepáticos[43][Waitkey][Scroll]El lugar en el que estás ahora,[Scroll]era antes una tierra hermosa[Scroll]que llamaban la Tierra Dorada.[Waitkey][Scroll]Pero el Mal la transformó, y[Scroll]ahora es un lugar oscuro al que[Scroll]llaman, Mundo de las Tinieblas.[Waitkey][Scroll]El Brujo ha roto el sello y ha[Scroll]abierto el portal que une ambos[Scroll]mundos en el Castillo de Hyrule.[Waitkey][Scroll]Ahora, para salvar a nuestro[Scroll]Mundo de la Luz, tienes que[Scroll]recuperar el Poder Dorado y[Waitkey][Scroll]rescatar a las Siete Doncellas[Scroll]que Agahnim envió también al[Scroll]Mundo de las Tinieblas.[Waitkey][Scroll]Ellas pertenecen al linaje de[Scroll]los Siete Sabios y sus[Scroll]poderes te ayudarán.[Waitkey][Scroll]Las doncellas están encerradas[Scroll]en mazmorras ocultas, plagadas[Scroll]de monstruos y trampas.[Waitkey][Scroll][60]El Palacio Oscuro es tu{79}t[Scroll]primer destino, [Name]![Scroll]Sé que puedo confiar en ti.[Waitkey][Scroll]Haz que los deseos de este[Scroll]anciano se hagan realidad,[Scroll][60]Te lo suplico![END]
 
 
-{6B}C{7A}DSiento tu impotencia[43][2]Antes de ir a ningún sitio,[3]busca la Perla Lunar en la[Waitkey][Scroll]Montaña de la Muerte.[Waitkey][Scroll]Te protegerá de la magia del[Scroll]Mundo de las Tieblas pudiendo [Scroll]mantener tu forma heróica.[END]
+{6B}C{7A}DSiento tu impotencia[43][2]Antes de ir a ningún sitio,[3]busca la Perla de la Luna en la[Waitkey][Scroll]Montaña de la Muerte.[Waitkey][Scroll]Te protegerá de la magia del[Scroll]Mundo de las Tieblas pudiendo [Scroll]mantener tu forma heróica.[END]
 
 
 Visita la cueva al este del[2]Lago Hylia. En ella encontrarás[3]cosas fantásticas[43][END]
@@ -214,7 +214,7 @@ Esta gruta conduce[2]al pueblo Kakariko.[END]
 Soy un tipo de lo más normal.[2]No me moleste.[3]NO QUITE ESTE CARTEL.[END]
 
 
-Cabaña de los Leñadores[2]B. T. y A. Cierta[END]
+Cabaña de los Leñadores[2]A. Bumpkin y B. Bumpkin[END]
 
 
 [2]{88}{88}{4E} Pueblo Kakariko[END]
@@ -280,7 +280,7 @@ La Seta que acabas de recoger[2]tiene el dulce olor de la fruta[3]podrida[43][Wa
 [60]Es el Libro de Mudora![2][60]Ahora puedes entender la[3]antigua lengua hyliana![END]
 
 
-[60]La Perla Lunar![2][60]Te protegerá de los efectos[3]cambiantes del Poder Dorado![END]
+[60]La Perla de la Luna![2][60]Te protegerá de los efectos[3]cambiantes del Poder Dorado![END]
 
 
 [60]Consigues la Brújula![2][60]Ya puedes localizar la guarida[3]del Mal supremo de la mazmorra![END]
@@ -310,7 +310,7 @@ La Seta que acabas de recoger[2]tiene el dulce olor de la fruta[3]podrida[43][Wa
 [60]Oh![60]Es la Ocarina![2][60]Seguro que su música tiene[3]algún poder misterioso[43]![END]
 
 
-[60]La Vara de Somaria es tuya![2][60]Te será muy útil si sabes[3]cómo y cuando usarla[43]![Waitkey][Scroll][60]Está rodeada de misterio![END]
+[60]El Báculo de Somaria es tuyo![2][60]Te será muy útil si sabes[3]cómo y cuando usarla[43]![Waitkey][Scroll][60]Está rodeada de misterio![END]
 
 
 [60]BOING![60]El Gancho![2]Se extiende y contrae, y es[3]útil para agarrarte a objetos![END]
@@ -346,7 +346,7 @@ Je, je, je[43] [60]Gracias![2]Esta es la Poción Verde.[3]Repone tu indicador de
 Je, je, je[43] [60]Gracias![2]Esta es la Poción Azul.[3]Usala para ganar vida y magia.[END]
 
 
-[60]Te han prestado una red![2][60]Quizás puedas usarla para[3]cazar algo más que bichos![END]
+[60]Te han prestado una Red![2][60]Puedes usarla para intentar[3]cazar algo más que bichos![END]
 
 
 [60]La Cota de Malla Azul![2][60]Esta armadura disminuye[3]todo el daño recibido![END]
@@ -361,10 +361,10 @@ Je, je, je[43] [60]Gracias![2]Esta es la Poción Azul.[3]Usala para ganar vida y
 [60]Encuentras el Escudo Espejo![2][60]Refleja rayos que tu viejo[3]escudo no podía![END]
 
 
-[60]Consigues el Bastón de Byrna![2][60]Al usarlo un aura te[3]protegerá![END]
+[60]Consigues el Báculo de Byrna![2][60]Al usarla un aura te[3]protegerá![END]
 
 
-[61]Eh? [60]No se abre![2]Si tuvieses la Llave Maestra,[3]quizás[43][END]
+[61]Eh? [60]No se abre![2]Probablemente la Llave Maestra[3]sea lo que necesites[43][END]
 
 
 [60]No te queda poder mágico![2]Por ahora no podrás usarlo[43][3][60]Vigila tu indicador de magia![END]
@@ -454,7 +454,7 @@ Aumentaré la capacidad de tu[2]bolsa para que puedas llevar[3]hasta {6C}B{6C}A 
 Entonces haré más grande tu[2]carcaj para que puedas llevar[3]hasta {6C}B{6C}A Flechas.[Waitkey][Scroll]Es sólo un pequeño favor para[Scroll]alegrarte el día[43][END]
 
 
-No puedo darte más deseos,[2]pero una amiga mía quizá pueda...[Waitkey][Scroll]Vive en la Cascada[Scroll]del Deseo cerca del lago de[Scroll]Zora. Te devolveré tus Rupias.[Waitkey][Scroll]Quizás así seas feliz[43][END]
+No puedo concederte más[2]deseos, pero una amiga mía[3]quizá pueda[43][Waitkey][Scroll]Vive en la Cascada[Scroll]del Deseo cerca del lago de[Scroll]Zora. Te devolveré tus Rupias.[Waitkey][Scroll]Puede que así seas feliz[43][END]
 
 
 [60]Eh, mira por dónde pisas![2]Hay agujeros en el suelo.[3]Pasa por la derecha del hoyo.[Waitkey][Scroll]Jovencito, [61]Tú también vienes[Scroll]aquí buscando el Poder Dorado?[Waitkey][Scroll]Pues la montaña está repleta[Scroll]de feroces criaturas y[Scroll]monstruos terribles.[Waitkey][Scroll]Y no serías el primero que[Scroll]desaparece en ella buscando[Scroll]el Poder Dorado[43][Waitkey][Scroll]Déjame darte un consejo, chico[Scroll]abandona ahora que aún[Scroll]puedes[43][END]
@@ -472,10 +472,10 @@ Mmm[43] Gira a la derecha.[2][61]Sabes?, tengo una nieta[3]de tu edad[43][Waitke
 Las doncellas siguen vivas[2]en algún lugar y un héroe[3]acudirá a rescatarlas[43][Waitkey][Scroll]Espero que llegue pronto ese[Scroll]día. Tiempos difíciles[43][Scroll]Y yo hablo demasiado.[Waitkey][Scroll]Gracias por ser tan amable[43][Scroll]Toma, si ves un punto mágico[Scroll]que pueda transportarte al[Waitkey][Scroll]otro mundo, usa este espejo.[END]
 
 
-El Brujo ha engañado al rey,[2]y ahora trata de abrir el sello[3]del Mundo de las Tinieblas.[Waitkey][Scroll]Para tu misión necesitarás la[Scroll]Perla Lunar, que está en la[Scroll]torre de la montaña.[Waitkey][Scroll]Todo lo que puedo hacer yo es[Scroll]darte fuerzas para el camino[43][END]
+El Brujo ha engañado al rey,[2]y ahora trata de abrir el sello[3]del Mundo de las Tinieblas.[Waitkey][Scroll]Para tu misión necesitarás la[Scroll]Perla de la Luna, que está en[Scroll]la torre de la montaña.[Waitkey][Scroll]Todo lo que puedo hacer yo es[Scroll]darte fuerzas para el camino[43][END]
 
 
-La Perla Lunar protegerá a[2]quien la lleve del aire mágico[3]de la Tierra Dorada.[Waitkey][Scroll]Todo lo que puedo hacer por[Scroll]ti es darte energía[43][Scroll]Vuelve cuando lo desees.[END]
+La Perla de la Luna protegerá[2]a quien la lleve del aire mágico[3]de la Tierra Dorada.[Waitkey][Scroll]Todo lo que puedo hacer por[Scroll]ti es darte energía[43][Scroll]Vuelve cuando lo desees.[END]
 
 
 [Name], creo que el Brujo[2]comunicó los dos mundos en[3]alguna parte del castillo.[Waitkey][Scroll]Todo lo que puedo hacer por[Scroll]ti es calmarte dolor[43][Scroll][END]
@@ -502,7 +502,7 @@ Oh, [Name].[Espacio 2]Los rumores dicen[2]que has raptado a la princesa,[3]pero 
 [60]Más te valdría correr hacia[2]la meta que perder el tiempo[3]leyendo este cartel![END]
 
 
-Daré un trozo de corazón[2]a la persona que lleve la Capa.[END]
+"Regalaré una Pieza de Corazón[2]a quien la Capa lleve consigo."[END]
 
 
 "Que caiga una maldición sobre[2]aquel que arroje algo a mi[3]hermoso círculo de piedras."[END]
@@ -523,7 +523,7 @@ Daré un trozo de corazón[2]a la persona que lleve la Capa.[END]
 {4F}[Espacio 2]Marisma del Diablo[2]{88}{88} No entrar[3]{88}{88} Sin salida[END]
 
 
-Este es el Pueblo Desterrado.[2]La gente sin Rupias no es[3]bienvenida.[END]
+Este es el Pueblo Desterrado.[2]Los forasteros empobrecidos[3]no son bienvenidos.[END]
 
 
 La Cascada de los Deseos está[2]a la vuelta de la esquina.[END]
@@ -541,7 +541,7 @@ Después de que Agahnim[2]lo conquistara todo, empezó a[3]hacer cosas muy extra
 {6B}C[Name], soy yo, Sahasrahla.[2]Puedo hablarte telepáticamente[3]cuando tocas esta losa.[Waitkey][Scroll]Una ayuda[43] Usa el arma oculta[Scroll]en la mazmorra para vencer[Scroll]a los enemigos con armadura.[END]
 
 
-{6B}C[Name], soy yo, Sahasrahla.[2]Un orbe conocido como la Perla[3]Lunar está en esta torre.[Waitkey][Scroll]Quien posea la perla será[Scroll]capaz de mantener su forma[Scroll]en el Mundo de las Tinieblas.[Waitkey][Scroll]Cuando la encuentres, debes[Scroll]escapar de la torre.[Scroll]No lo olvides[43][END]
+{6B}C[Name], soy yo, Sahasrahla.[2]En esta torre se oculta el orbe[3]llamado, la Perla de la Luna.[Waitkey][Scroll]Quien posea la perla será[Scroll]capaz de mantener su forma[Scroll]en el Mundo de las Tinieblas.[Waitkey][Scroll]Cuando la encuentres, debes[Scroll]escapar de la torre.[Scroll]No lo olvides[43][END]
 
 
 {88}[S1][S2][S1][S3][S1][S2][S1][S3][Espacio 2][S1][S2][S2][S2][S2] [S1][S3][S1][S2][S1][S3][2]{88}{88}[S1][S3][S1][S1][S2][Espacio 2][S1][S3][S1][S2][S1][S3][3]{88}[Espacio 2][S1][S2][S1][Espacio 2][S3][S1][S1][S2][S1][S3][Espacio 2][S3][S2][S1][S1][S3][END]
@@ -568,7 +568,7 @@ Después de que Agahnim[2]lo conquistara todo, empezó a[3]hacer cosas muy extra
 "Para seguir tu camino,[2]pide aquí tu deseo[3]y te será concedido."[END]
 
 
-{6B}C[60]Cuando Ganon se paralice,[2]golpéale con las Flechas de[3]Plata![Waitkey][Scroll][61]Lo entiendes, [Name]?[END]
+{6B}CCuando Ganon se paralice,[2][60]No dudes en golpearle con tus[3]Flechas de Plata![Waitkey][Scroll][61]Lo has entendido, [Name]?[END]
 
 
 {6B}C[Name], soy yo, Zelda.[2]Estoy en la Roca de la Tortuga[3]en la Montaña de la Muerte.[Waitkey][Scroll][60]El Brujo me encerró aquí![Scroll][60]Por favor, ven a rescatarme![END]
@@ -595,7 +595,7 @@ Después de que Agahnim[2]lo conquistara todo, empezó a[3]hacer cosas muy extra
 {6B}C[Name], soy yo, Sahasrahla.[2]Te voy a dar un consejo[43][3]Si te miras en el Espejo Mágico[Waitkey][Scroll]cuando estés en una mazmorra,[Scroll][60]volverás a la entrada![END]
 
 
-Mi nombre es Chris Holihan.[2]Esta es mi sala secreta.[3]Guarda el secreto por favor.[END]
+Mi nombre es Chris Holihan.[2]Esta es mi sala secreta.[3]Guarda el secreto, [61]vale?.[END]
 
 
 [60]Has atrapado una abeja![Waitkey][2][61]Qué harás?[3]{88}|> Guardarla en una botella[Scroll]{88}{89}Soltarla[Choose][END]
@@ -739,16 +739,16 @@ Entonces, te dejaré mi pala.[2][60]Suerte![END]
 {6D}B[60]Abracadabra![2]Conocerás a un hombre raro[3]en el desierto[43][END]
 
 
-{6D}B[60]Abracadabra![2]Esa Tienda de chismes del[3]Mundo de las Tinieblas tiene[Scroll]tesoros para el que pregunte[43][END]
+{6D}B[60]Abracadabra![2]Esa Tienda de chismes del[3]Mundo de las Tinieblas tiene[Waitkey][Scroll]tesoros para el que pregunte[43][END]
 
 
 {6D}B[60]Abracadabra![2]El compañero del herrero está[3]en el Pueblo Desterrado[43][END]
 
 
-{6D}B[60]Abracadabra![2]Encontrarás un tesoro[3]descansando en paz en[Scroll]el cementerio[43][END]
+{6D}B[60]Abracadabra![2]Encontrarás un tesoro[3]descansando en paz en[Waitkey][Scroll]el cementerio[43][END]
 
 
-{6D}B[60]Abracadabra![2]Comprarás un nuevo tipo de[3]bombas en la Tienda de las Bombas[43][END]
+{6D}B[60]Abracadabra![2]Comprarás un nuevo tipo de[3]Bombas en su Tienda[43][END]
 
 
 {6D}B[60]Abracadabra, pata de cabra![43][2]Busca dentro de la pirámide del[3]Mundo de las Tinieblas[43][END]
@@ -784,7 +784,7 @@ Sniff[43] [60]Hola, [Name]![2][61]Ya tienes una botella donde[3]poder guardar lo
 Hola[43][60]Achís! Estoy enfermo y[2]no puedo salir[43] [60]Achís![3]La gente dice que cogí este[Waitkey][Scroll]resfriado por el aire malo que[Scroll]llega de la montaña[43] Sniff[43][Scroll][61]Te gusta mi red? La volveré[Waitkey][Scroll]a usar para cazar bichos[Scroll]cuando esté mejor, pero[Scroll]mientras tanto te la dejo.[END]
 
 
-Sniff[43] Espero que me ponga[2]bueno pronto[43][END]
+Sniff[43] Espero que me ponerme[2]bueno pronto[43][END]
 
 
 [43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][2][43][Espacio 2][43][Espacio 2][43][END]
@@ -820,7 +820,7 @@ Vale, tráeme ese cofre.[2]En serio, no se lo digas[3]a nadie.[END]
 [60]Je, je, je![60]Me río de tu[2]desgracia![60]Ahora tus poderes[3]se reducen a la mitad![Waitkey][Scroll][60]Enhorabuena![Scroll][60]Y ahora haz lo que puedas,[Scroll][60]si es que puedes hacer algo![END]
 
 
-{6E}A{77}H{7A}D{6B}C{67}Mucho tiempo ha, en el hermoso[2]reino de Hyrule, rodeado de[3]montañas y bosques,{78}C[Scroll]contaba la leyenda que se[Scroll]ocultaba un poder omnipotente[Scroll]llamado el Poder Dorado.{78}H[Scroll]Permaneció lejos del alcance[Scroll]del hombre en un lugar remoto[Scroll]y sagrado, hasta que un día[43]{78}C{67}{67}[Scroll]Se abrió un portal que conducía[Scroll]a ese lugar[43]{78}C[Scroll]Y los humanos empezaron a[Scroll]luchar entre ellos para entrar[Scroll]a la remota Tierra Dorada,{78}C[Scroll]pero ninguno regresó jamás.{78}H[Scroll]Y en su lugar, a través de[Scroll]aquel portal, irrumpió el Mal[43]{67}{67}[Scroll]Temeroso, el Rey pidió a Siete[Scroll]Sabios que sellaran el portal,[Scroll]para así proteger su reino.{78}C{67}{67}[Scroll]Bravos caballeros perecieron[Scroll]para que el sello permaneciera[Scroll]durante toda la eternidad[43]{78}H[Scroll]Pero cuando estos eventos[Scroll]se disiparon en el tiempo y[Scroll]se convirtieron en leyenda[43][END]
+{6E}A{77}H{7A}D{6B}C{67}Mucho tiempo ha, en el hermoso[2]reino de Hyrule, rodeado de[3]montañas y bosques,{78}C[Scroll]contaba la leyenda que se[Scroll]ocultaba un poder omnipotente[Scroll]llamado el Poder Dorado.{78}H[Scroll]Permaneció lejos del alcance[Scroll]del hombre en un lugar remoto[Scroll]y sagrado, hasta que un día[43]{78}C{67}{67}[Scroll]Se abrió un portal que conducía[Scroll]a ese lugar[43]{78}C[Scroll]Y los humanos empezaron a[Scroll]luchar entre ellos para entrar[Scroll]a la remota Tierra Dorada,{78}C[Scroll]pero ninguno regresó jamás.{78}H[Scroll]Y en su lugar, a través de[Scroll]aquel portal, irrumpió el Mal[43]{67}{67}[Scroll]Temeroso, el Rey pidió a Siete[Scroll]Sabios que sellaran el portal,[Scroll]para así proteger su reino.{78}C{67}{67}[Scroll]Bravos caballeros perecieron[Scroll]para que el sello permaneciera[Scroll]durante toda la eternidad[43]{78}J[Scroll]Pero cuando estos eventos[Scroll]se disiparon en el tiempo y[Scroll]se convirtieron en leyenda[43][END]
 
 
 {6B}C{77}H{7A}D[1]Un misterioso brujo conocido[2]como Agahnim llegó a Hyrule[3]desde una tierra desconocida[43]{78}D[Scroll]y logró eliminar al Rey de[Scroll]Hyrule utilizando sus extraños[Scroll]poderes mágicos[43]{78}F[END]
@@ -901,7 +901,7 @@ No tengo más regalos para ti.[2][60]Toma esto, gusano![END]
 [60]Eh, [Name]! Una misteriosa[2]niebla cubre el bosque.[3][60]Ten cuidado![END]
 
 
-Quizás sea mi imaginación,[2]pero noto algo extraño en este[3]árbol mientras lo cortamos[43][END]
+No sé si será mi imaginación,[2]pero noto algo extraño en este[3]árbol mientras lo cortamos[43][END]
 
 
 [60]Eh, la niebla del bosque[2]se está desvaneciendo![3][60]Gracias![60]Podemos volver a ir![END]
@@ -925,13 +925,13 @@ Hola, [Name].[2][61]Has hablado con mi hermano?[3]Seguirá enfadado[43][END]
 {7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll][61]Conoces la profecía del Gran[Scroll]Cataclismo?[Scroll]Dice así[43][Waitkey][Scroll]Cuando el del corazón malvado[Scroll]sea dueño de la Trifuerza,[Scroll]un Héroe surgirá[43][Waitkey][Scroll][43]y se deberá enfrentar solo[Scroll]al que desencadenó el[Scroll]Gran Cataclismo.[Waitkey][Scroll]Si el Mal venciera al Héroe,[Scroll]entonces nada ni nadie[Scroll]estaría a salvo de su reinado.[Waitkey][Scroll]Sólo un descendiente de los[Scroll]protectores de la Casa de Hylia[Scroll]puede ser ese Héroe[43][Waitkey][Scroll]Y por tus venas corre esa[Scroll]sangre, [60]la sangre de los[Scroll]Caballeros de Hyrule![Waitkey][Scroll][60]Salva a la princesa Zelda![END]
 
 
-{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Mientras los Siete Sabios[Scroll]sellaban el paso que conducía[Scroll]al Mundo de las Tinieblas,[Waitkey][Scroll]los Caballeros de Hyrule[Scroll]los defendían de los ataques[Scroll]de las hordas del mal.[Waitkey][Scroll]Se dice que casi todos los[Scroll]Caballeros de Hyrule perecieron[Scroll]en esa batalla[43][Waitkey][Scroll]Quizás tú seas el último[Scroll]por cuyas venas corre su[Scroll]sangre[43][Waitkey][Scroll]Es irónico que el último del[Scroll]linaje sea el que se convierta[Scroll]en el Héroe de la leyenda[43][Waitkey][Scroll][60]Se que tú vencerás a Ganon![END]
+{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Mientras los Siete Sabios[Scroll]sellaban el paso que conducía[Scroll]al Mundo de las Tinieblas,[Waitkey][Scroll]los Caballeros de Hyrule[Scroll]los defendían de los ataques[Scroll]de las hordas del mal.[Waitkey][Scroll]Se dice que casi todos los[Scroll]Caballeros de Hyrule perecieron[Scroll]en esa batalla[43][Waitkey][Scroll]Quizá tú seas el último[Scroll]por cuyas venas corre su[Scroll]sangre[43][Waitkey][Scroll]Es irónico que el último del[Scroll]linaje sea el que se convierta[Scroll]en el Héroe de la leyenda[43][Waitkey][Scroll][60]Se que tú vencerás a Ganon![END]
 
 
-{7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll]Dicen que el pueblo hyliano[Scroll]tenía poderes misteriosos,[Scroll]como los Siete Sabios.[Waitkey][Scroll]Pero su sangre se ha ido[Scroll]debilitando con el tiempo y[Scroll]ahora ya ni siquiera nosotras,[Waitkey][Scroll]herederas de su linaje,[Scroll]tenemos sus poderes[Scroll]sobrenaturales.[Waitkey][Scroll]Pero, si reunimos el valor de[Scroll]los Caballeros con la sabiduría[Scroll]de los Siete Sabios,[Waitkey][Scroll]Quizá aun haya esperanza[Scroll]para nuestro pueblo[43][Waitkey][Scroll][Scroll]Queda poco tiempo para que el[Scroll]portal del castillo enlace[Scroll]ambos mundos para siempre.[Waitkey][Scroll]Si derrotas a Ganon, este[Scroll]infierno desaparecerá y la[Scroll]Trifuerza tendrá otro dueño.[Waitkey][Scroll]Confío en ti.[Scroll][60]Suerte, [Name]![END]
+{7A}C{6D}B{6B}C[Name], gracias por salvarme[2]de las garras de ese terrible[3]monstruo![Waitkey][Scroll]Dicen que el pueblo hyliano[Scroll]tenía poderes misteriosos,[Scroll]como los Siete Sabios.[Waitkey][Scroll]Pero su sangre se ha ido[Scroll]debilitando con el tiempo y[Scroll]ahora ya ni siquiera nosotras,[Waitkey][Scroll]herederas de su linaje,[Scroll]tenemos sus poderes[Scroll]sobrenaturales.[Waitkey][Scroll]Pero si reunimos el valor de[Scroll]los Caballeros con la sabiduría[Scroll]de los Siete Sabios,[Waitkey][Scroll]Quizá aun haya esperanza[Scroll]para nuestro pueblo[43][Waitkey][Scroll][Scroll]Queda poco tiempo para que el[Scroll]portal del castillo enlace[Scroll]ambos mundos para siempre.[Waitkey][Scroll]Si derrotas a Ganon, este[Scroll]infierno desaparecerá y la[Scroll]Trifuerza tendrá otro dueño.[Waitkey][Scroll]Confío en ti.[Scroll][60]Suerte, [Name]![END]
 
 
-{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Ganon nos capturó porque su[Scroll]poder solo no podía romper[Scroll]el sello de los Siete Sabios.[Waitkey][Scroll]Así, usando al Brujo Agahnim[Scroll]como un peón más, nos llevó[Scroll]al Mundo de las Tinieblas.[Waitkey][Scroll]Después de romper el sello[Scroll]con nuestros poderes, nos[Scroll]encerró en estos cristales y[Waitkey][Scroll]nos entregó a sus monstruos[Scroll]guardianes. Pero Ganon nunca[Scroll]pensó que llegarías tan lejos.[Waitkey][Scroll]Ahora, la Princesa te espera[Scroll]en la Roca de la Tortuga.[Scroll][60]Rápido, ve a rescatarla![END]
+{7A}C{6D}B{6B}C[Name], gracias a ti, he podido[2]escapar de las garras de ese[3]terrible monstruo.[Waitkey][Scroll]Ganon nos capturó porque sólo[Scroll]con su poder no podía romper[Scroll]el sello de los Siete Sabios.[Waitkey][Scroll]Así, usando al Brujo Agahnim[Scroll]como un peón más, nos llevó[Scroll]al Mundo de las Tinieblas.[Waitkey][Scroll]Después de romper el sello[Scroll]con nuestros poderes, nos[Scroll]encerró en estos cristales y[Waitkey][Scroll]nos entregó a sus monstruos[Scroll]guardianes. Pero Ganon nunca[Scroll]pensó que llegarías tan lejos.[Waitkey][Scroll]Ahora, la Princesa te espera[Scroll]en la Roca de la Tortuga.[Scroll][60]Rápido, ve a rescatarla![END]
 
 
 {7A}C{6D}B{6B}CGracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]del que hablan las leyendas.[Waitkey][Scroll]Tuve esa sensación desde la[Scroll]primera vez que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon aguarda dentro de su[Scroll]torre para cruzar el portal[Scroll]que conecta los dos mundos.[Waitkey][Scroll]Si Ganon llegara a entrar en[Scroll]el Mundo de la Luz, nadie[Scroll]podría entonces detenerle.[Waitkey][Scroll]Pero mientras se encuentre en[Scroll]este mundo, podrías derrotarlo[Scroll]allá donde se refugie.[Waitkey][Scroll][60]Ahora ve a la torre de Ganon![Scroll]Combinaremos nuestros poderes[Scroll]para romper la barrera.[Waitkey][Scroll]Devuelve la paz a Hyrule.[Scroll]No nos falles[43][Scroll][43][Espacio 2][43][Espacio 2][43]{79}t[END]
@@ -1051,13 +1051,13 @@ Blom, Blom[43] [61]Eh?[43][2][61]Quién eres tú, Señor Conejo?[3][61]Te gustan
 [60]GUAU![60]No has cambiado de[2]forma! Tienes la Perla Lunar,[3][61]eh?[END]
 
 
-En este peligroso mundo,[2]puede que necesites algo[43][3]Elige lo que quieras[43][END]
+En este peligroso mundo,[2]siempre viene bien una ayuda.[3]Sírvete tú mismo[43][END]
 
 
-[61]Puedo ayudarte?[2]Puedes abrir dos cofres por[3]30 Rupias. [61]Por qué no juegas?[Waitkey][Scroll][61]Qué tal?[Scroll]{88}|> Jugaré[Scroll]{88}{89}Más tarde[43][Choose][END]
+Hola, [61]Puedo ayudarte?[2]Si me das 30 Rupias, te dejo[3]abrir dos cofres.[Waitkey][Scroll][61]Qué tal?[Scroll]{88}|> Jugaré[Scroll]{88}{89}Más tarde[43][Choose][END]
 
 
-Vale, vuelve otra vez y[2]juega un poco.[3][60]Te estaré esperando![END]
+Bueno[43] vuelve otra vez a[2]probar suerte.[3][60]Te estaré esperando![END]
 
 
 [60]Oye, niño![60]Puedes abrir[2]cofres después de pagar![END]

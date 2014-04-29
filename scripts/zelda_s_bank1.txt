@@ -19,13 +19,13 @@ Muchas gracias.[2]Recuperas un corazón.[END]
 No, no, no[43][2]No puedo venderte eso porque[3]no tienes una botella vacía.[END]
 
 
-[60]No puedes llevar más ahora,[2]pero quizás lo necesites[3]más tarde![END]
+[60]No puedes llevar más ahora,[2]pero quizá lo necesites[3]más tarde![END]
 
 
-Nunca imaginé que un niño[2]como tú podría darme tantos[3]problemas. No puedo creer[Waitkey][Scroll]que derrotaras dos veces a mi[Scroll]otro yo, el Mago Negro.[Waitkey][Scroll]Pero nunca te dejaré la[Scroll]Trifuerza.[Espacio 2][Scroll]Te destruiré y conquistaré[Scroll]los mundos de la Luz y de[Waitkey][Scroll]la Oscuridad[43][END]
+Nunca imaginé que un niño[2]como tú podría darme tantos[3]problemas.[Waitkey][Scroll]No puedo creer que derrotaras[Scroll]dos veces a mi otro yo,[Scroll]el Brujo Negro.[Waitkey][Scroll]Has llegado hasta aquí,[Scroll]pero jamás te dejaré tocar[Scroll]la Trifuerza.[Waitkey][Scroll][60]Te destruiré y conquistaré[Scroll]los mundos de la Luz y de[Scroll]las Tinieblas para siempre![END]
 
 
-Lo haces bien, chico, pero[43][2][61]Puedes detener la técnica[3]secreta de la Oscuridad?[Waitkey][Scroll][60]En Guardia![END]
+No lo haces mal, chaval, pero[43][2][61]Puedes detener la técnica[3]secreta de las Tinieblas?[Waitkey][Scroll][60]Prepárate![END]
 
 
 [60]Eh, niño! [60]No puedes entrar[2]aquí![60]éste es el escondite[3]de unos bandidos![Waitkey][Scroll]Por cierto, dicen que un[Scroll]antiguo miembro de la banda[Scroll]vive ahora en el desierto.[END]
@@ -109,7 +109,7 @@ Ya veo[43][Espacio 2]Está bien,[Espacio 2]entonces[2]ahorra unas cuantas rupias
 [60]Vuelve otra vez![2][60]Te estaré esperando![END]
 
 
-No puedo decirte dónde cavar,[2]pero tampoco es momento[3]de preguntarlo.[Scroll]Vuelve aquí.[Waitkey][Scroll]Lo siento.[END]
+No puedo decirte dónde cavar,[2]pero tampoco es momento[3]de preguntarlo.[Waitkey][Scroll]Vuelve aquí[43][Waitkey][Scroll]Lo siento.[END]
 
 
 
