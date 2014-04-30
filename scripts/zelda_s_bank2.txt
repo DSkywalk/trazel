@@ -283,7 +283,7 @@ La Seta que acabas de recoger[2]tiene el dulce olor de la fruta[3]podrida[43][Wa
 [60]La Perla de la Luna![2][60]Te protegerá de los efectos[3]cambiantes del Poder Dorado![END]
 
 
-[60]Consigues la Brújula![2][60]Ya puedes localizar la guarida[3]del Mal supremo de la mazmorra![END]
+[60]Consigues la Brújula![2][60]Ahora conoces la ubicación[3]del Guardián en la mazmorra![END]
 
 
 [60]Encuentras el Mapa![2][60]Ahora puedes ver tu posición[3]y toda la mazmorra en él![END]
@@ -523,7 +523,7 @@ Oh, [Name].[Espacio 2]Los rumores dicen[2]que has raptado a la princesa,[3]pero 
 {4F}[Espacio 2]Marisma del Diablo[2]{88}{88} No entrar[3]{88}{88} Sin salida[END]
 
 
-Este es el Pueblo Desterrado.[2]Los forasteros empobrecidos[3]no son bienvenidos.[END]
+Este es el Pueblo Desterrado.[2]No son bienvenidos los[3]forasteros sin Rupias.[END]
 
 
 La Cascada de los Deseos está[2]a la vuelta de la esquina.[END]
@@ -784,7 +784,7 @@ Sniff[43] [60]Hola, [Name]![2][61]Ya tienes una botella donde[3]poder guardar lo
 Hola[43][60]Achís! Estoy enfermo y[2]no puedo salir[43] [60]Achís![3]La gente dice que cogí este[Waitkey][Scroll]resfriado por el aire malo que[Scroll]llega de la montaña[43] Sniff[43][Scroll][61]Te gusta mi red? La volveré[Waitkey][Scroll]a usar para cazar bichos[Scroll]cuando esté mejor, pero[Scroll]mientras tanto te la dejo.[END]
 
 
-Sniff[43] Espero que me ponerme[2]bueno pronto[43][END]
+Sniff[43][2]Espero ponerme bueno pronto[43][END]
 
 
 [43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][2][43][Espacio 2][43][Espacio 2][43][END]
