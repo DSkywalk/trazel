@@ -7,7 +7,7 @@ Muchas gracias.[2]Esta es la Poción Roja.[3]Se usa para recuperar vida.[END]
 Muchas gracias.[2]Eso son flechas. No puedes[3]utilizarlas sin un arco.[END]
 
 
-Eso son Bombas.[2][61]Sabes cómo se coge una que[3]hayas puesto?[Waitkey][Scroll](Pulsando el Botón [A])[END]
+Eso son Bombas.[2]Espero que sepas como se coge[3]una que ya hayas puesto[43][Waitkey][Scroll](Pulsando el Botón [A])[END]
 
 
 Muchas gracias.[2]Eso es una abeja.[3]No sé para qué puede servir.[END]

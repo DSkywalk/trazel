@@ -784,7 +784,7 @@ Sniff[43] [60]Hola, [Name]![2][61]Ya tienes una botella donde[3]poder guardar lo
 Hola[43][60]Achís! Estoy enfermo y[2]no puedo salir[43] [60]Achís![3]La gente dice que cogí este[Waitkey][Scroll]resfriado por el aire malo que[Scroll]llega de la montaña[43] Sniff[43][Scroll][61]Te gusta mi red? La volveré[Waitkey][Scroll]a usar para cazar bichos[Scroll]cuando esté mejor, pero[Scroll]mientras tanto te la dejo.[END]
 
 
-Sniff[43][2]Espero ponerme bueno pronto[43][END]
+Sniff[43][2]Espero mejorarme pronto[43][END]
 
 
 [43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][Espacio 2][43][2][43][Espacio 2][43][Espacio 2][43][END]
