@@ -571,7 +571,7 @@ Después de que Agahnim[2]lo conquistara todo, empezó a[3]hacer cosas muy extra
 {6B}CCuando Ganon se paralice,[2][60]No dudes en golpearle con tus[3]Flechas de Plata![Waitkey][Scroll][61]Lo has entendido, [Name]?[END]
 
 
-{6B}C[Name], soy yo, Zelda.[2]Estoy en la Roca de la Tortuga[3]en la Montaña de la Muerte.[Waitkey][Scroll][60]El Brujo me encerró aquí![Scroll][60]Por favor, ven a rescatarme![END]
+{6B}C[Name], soy yo, Zelda.[2]Estoy en la Roca de la Tortuga[3]de la Montaña de la Muerte.[Waitkey][Scroll][60]El Brujo me encerró aquí![Scroll][60]Por favor, ven a rescatarme![END]
 
 
 {6B}C[Name], soy yo, Sahasrahla.[2]Encuentra todos los tesoros[3]de cada mazmorra.[END]
