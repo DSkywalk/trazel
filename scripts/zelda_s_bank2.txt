@@ -949,10 +949,10 @@ Hola, [Name].[2][61]Has hablado con mi hermano?[3]Seguirá enfadado[43][END]
 {7A}C{6D}B{6B}CGracias por rescatarme[43][2]Como pensaba, eres el Héroe[3]del que hablan las leyendas.[Waitkey][Scroll]Tuve esa sensación desde la[Scroll]primera vez que te vi.[Scroll][43][Espacio 2][43][Espacio 2][43][Waitkey][Scroll]Ganon aguarda dentro de su[Scroll]torre para cruzar el portal[Scroll]que conecta los dos mundos.[Waitkey][Scroll]Si Ganon llegara a entrar en[Scroll]el Mundo de la Luz, nadie[Scroll]podría entonces detenerle.[Waitkey][Scroll]Pero mientras se encuentre en[Scroll]este mundo, podrías derrotarlo[Scroll]allá donde se refugie.[Waitkey][Scroll]Todavía quedan doncellas por[Scroll]rescatar. Cuando rescates a[Scroll]todas, ve a la Torre de Ganon.[Waitkey][Scroll][60]Nosotras podemos romper la[Scroll]barrera que ha creado Ganon[Scroll]para proteger su torre![Waitkey][Scroll][Name][43] debes traer de nuevo[Scroll]la paz a nuestra tierra[43][END]
 
 
-Ajá[43] [Name][43][2]Te estabamos esperando[3][60]Zelda quería que vieras cómo[Waitkey][Scroll]desaparece ante tus ojos![Scroll][60]Contempla los últimos[Scroll]momentos de la Princesa![END]
+Ajá[43] [Name][43][2]Te estábamos esperando[3][60]Zelda quería que vieras cómo[Waitkey][Scroll]desaparece ante tus ojos![Scroll][60]Contempla los últimos[Scroll]momentos de la Princesa![END]
 
 
-Jo, jo, jo! Con este último[2]acto malvado, he roto el sello[3]de los Siete Sabios.[Waitkey][Scroll]Ahora ya sólo es cuestión de[Scroll]tiempo que los poderes ocultos[Scroll]cubran esta tierra[43][Waitkey][Scroll]Cuando estemos armados por[Scroll]fin con el Poder Dorado,[Scroll]el Héroe legendario no podrá[Waitkey][Scroll]hacer nada contra nosotros, la[Scroll]tribu del Mal.[Scroll][60]Disculpa, debo irme![60]Jo, jo![END]
+[60]Jo, jo! Con este último ritual,[2]he destruido el sello de los[3]Siete Sabios.[Waitkey][Scroll]Ahora ya sólo es cuestión de[Scroll]tiempo que los poderes ocultos[Scroll]cubran esta tierra[43][Waitkey][Scroll]Y cuando finalmente poseamos[Scroll]el ingente Poder Dorado,[Scroll]el Héroe legendario no podrá[Waitkey][Scroll]hacer nada contra nosotros[43][Scroll][60]Las huestes del Mal![Scroll][60]Disculpa, debo irme![60]Jo, jo![END]
 
 
 [60]Oh![60]Veo que quieres que[2]acabe contigo aquí mismo![3]Si ese es tu deseo[43][END]
