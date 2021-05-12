@@ -29,8 +29,6 @@ ENDVAL = "FF"
 
 # In Spanish we don't have enough room to put all the lines
 #   in the original place (x73F4C) so we have to move them.
-# we used 0x742E1 as new ptr
-# and 0x76C90 for the new data address
 
 # original data (WITHOUT HEADER)
 ORIGINAL_PTR = 0x73F4C

@@ -112,4 +112,3 @@ Ya veo[43][Espacio 2]Está bien,[Espacio 2]entonces[2]ahorra unas cuantas rupias
 No puedo decirte dónde cavar,[2]pero tampoco es momento[3]de preguntarlo.[Waitkey][Scroll]Vuelve aquí[43][Waitkey][Scroll]Lo siento.[END]
 
 
-
