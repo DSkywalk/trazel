@@ -1,0 +1,86 @@
+{62}{66}{00}{2B}EL REY HA REGRESADO
+{62}{E7}{00}{19}[C][A][S][T][I][L][L][O] [D][E] [H][Y][R][U][L][E]
+{63}{07}{00}{19}[c][a][s][t][i][l][l][o] [d][e] [h][y][r][u][l][e][END]
+
+
+{62}{67}{00}{1B}EL LEAL SACERDOTE
+{62}{EB}{00}{11}[S][A][N][T][U][A][R][I][O]
+{63}{0B}{00}{11}[s][a][n][t][u][a][r][i][o][END]
+
+
+{62}{64}{00}{2D}SAHASRAHLA VUELVE A CASA
+{62}{E8}{00}{19}[P][U][E][B][L][O] [K][A][K][A][R][I][K][O]
+{63}{08}{00}{19}[p][u][e][b][l][o] [k][a][k][a][r][i][k][o][END]
+
+
+{62}{61}{00}{2F}LOS BUITRES RIGEN EL DESIERTO
+{62}{E7}{00}{19}[P][A][L][A][C][I][O] [D][E][L] [D][E][S][I][E][R][T][O]
+{63}{07}{00}{19}[p][a][l][a][c][i][o] [d][e][l] [d][e][s][i][e][r][t][o][END]
+
+
+{62}{4B}{00}{01}{34}
+{62}{64}{00}{2F}EL ABUSON HACE UN AMIGO
+{62}{E6}{00}{1B}[T][O][R][R][E] [D][E] [L][A] [M][O][N][T][A][Ñ][A]
+{63}{06}{00}{1B}[t][o][r][r][e] [d][e] [l][a] [m][o][n][t][a][ñ][a][END]
+
+
+{62}{48}{00}{01}{34}
+{62}{64}{00}{25}TU TIO SE HA RECUPERADO
+{62}{EA}{00}{13}[N][U][E][S][T][R][O] [H][O][G][A][R]
+{63}{0A}{00}{13}[n][u][e][s][t][r][o] [h][o][g][a][r][END]
+
+
+{62}{68}{00}{21}SE VENDEN ALETAS
+{62}{E6}{00}{1F}[C][A][S][C][A][D][A] [D][E] [L][O][S] [Z][O][R][A]
+{63}{06}{00}{1F}[c][a][s][c][a][d][a] [d][e] [l][o][s] [z][o][r][a][END]
+
+
+{62}{65}{00}{2D}LA BRUJA Y SU APRENDIZ
+{62}{E7}{00}{13}[T][I][E][N][D][A] [D][E] [P][O][C][I][O][N][E][S]
+{63}{07}{00}{13}[t][i][e][n][d][a] [d][e] [p][o][c][i][o][n][e][s][END]
+
+
+{62}{53}{00}{01}{35}
+{62}{65}{00}{1F}LOS GEMELOS LENADORES
+{62}{E7}{00}{1B}[C][A][B][A][Ñ][A] [D][E][L] [B][O][S][Q][U][E]
+{63}{07}{00}{1B}[c][a][b][a][ñ][a] [d][e][l] [b][o][s][q][u][e][END]
+
+
+{62}{63}{00}{29}LA OCARINA VUELVE A SONAR
+{62}{E7}{00}{19}[E][L] [C][L][A][R][O] [E][N][C][A][N][T][A][D][O]
+{63}{07}{00}{19}[e][l] [c][l][a][r][o] [e][n][c][a][n][t][a][d][o][END]
+
+
+{62}{63}{00}{2D}VENUS. REINA DE LAS HADAS
+{62}{E7}{00}{17}[P][O][Z][O] [D][E] [L][O][S] [D][E][S][E][O][S]
+{63}{07}{00}{17}[p][o][z][o] [d][e] [l][o][s] [d][e][s][e][o][s][END]
+
+
+{62}{66}{00}{2D}LOS ENANOS HERREROS
+{62}{ED}{00}{0F}[F][R][A][G][U][A]
+{63}{0D}{00}{0F}[f][r][a][g][u][a][END]
+
+
+{62}{4C}{00}{01}{35}
+{62}{64}{00}{27}EL PEQUENO CAZABICHEJOS
+{62}{E8}{00}{19}[P][U][E][B][L][O] [K][A][K][A][R][I][K][O]
+{63}{08}{00}{19}[p][u][e][b][l][o] [k][a][k][a][r][i][k][o][END]
+
+
+{62}{39}{00}{01}{35}
+{62}{45}{00}{1F}EL DESPISTADO ERMITANO
+{62}{E6}{00}{1B}[M][O][N][T][A][Ñ][A] [D][E] [L][A] [M][U][E][R][T][E]
+{63}{06}{00}{1B}[m][o][n][t][a][ñ][a] [d][e] [l][a] [m][u][e][r][t][e][END]
+
+
+{62}{65}{00}{1F}EL BANDIDO DEL BOSQUE
+{62}{E9}{00}{13}[B][O][S][Q][U][E] [P][E][R][D][I][D][O]
+{63}{09}{00}{13}[b][o][s][q][u][e] [p][e][r][d][i][d][o][END]
+
+
+{62}{65}{00}{27}Y LA ESPADA MAESTRA
+{62}{A6}{00}{1D}[v_V][v_U][v_E][v_L][v_V][v_E] [v_A] [v_D][v_E][v_S][v_C][v_A][v_N][v_S][v_A][v_R][V_·][V_·][V_·]
+{62}{E9}{00}{0F}[¡][P][A][R][A] [S][I][E][M][P][R][E][!]
+{63}{09}{00}{0F}[_¡][p][a][r][a] [s][i][e][m][p][r][e][_!][END]
+
+
